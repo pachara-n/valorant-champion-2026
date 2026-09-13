@@ -54,14 +54,14 @@ const TEAM_DATA = [
       { name: "d00mbr0s", real: "Carl Erik Victor Sandgren", role: "Assistant Coach" }
     ],
     roster: [
-      { alias: "Cryocells", real: "Matthew Panganiban", role: "Duelist", agents: ["Jett", "Yoru", "Chamber"] },
-      { alias: "Asuna", real: "Peter Mazuryk", role: "Initiator / Flex", agents: ["KAY/O", "Gekko", "Fade"] },
-      { alias: "bang", real: "Sean Bezerra", role: "Controller", agents: ["Omen", "Viper", "Astra"] },
-      { alias: "vora", real: "Jordan Pulwer", role: "Initiator", agents: ["Sova", "Fade", "Breach"] },
-      { alias: "Timotino", real: "Timothée Lavigne Dupont", role: "Sentinel", agents: ["Cypher", "Killjoy", "Vyse"] }
+      { alias: "Cryocells", real: "Matthew Panganiban", role: "Duelist / Flex", agents: ["Cypher", "Viper", "Chamber"] },
+      { alias: "Asuna", real: "Peter Mazuryk", role: "Initiator / Flex", agents: ["Phoenix", "Omen", "KAY/O"] },
+      { alias: "bang", real: "Sean Bezerra", role: "Controller", agents: ["Omen", "Harbor", "Viper"] },
+      { alias: "vora", real: "Jordan Pulwer", role: "Initiator", agents: ["Sova", "Fade", "Skye"] },
+      { alias: "Timotino", real: "Timothée Lavigne Dupont", role: "Duelist / Entry", agents: ["Neon", "Jett"] }
     ],
     star: "Cryocells",
-    starRole: "Duelist / Operator",
+    starRole: "Duelist / Flex Fragger",
     roadToChampions: "แชมป์ Americas Stage 2 — เดินหน้าไร้พ่ายใน Upper Bracket ชนะ NRG 2-0 ใน Upper Final ก่อนเฉือน LOUD 3-2 ใน Grand Final สุดเดือด 5 แมพ (Sunset 13-11, Ascent 14-12, Haven 14-12)",
     recentForm: "ชนะ 5 แมตช์รวดใน Americas Stage 2 Playoffs คว้าแชมป์พร้อมโมเมนตัมสูงสุดของลีก Americas",
     tacticalIdentity: "Macro Discipline ผสานกับ Firepower ที่คมกริบ — มี Asuna และ vora เปิดวิชั่นและสร้าง Space ให้ Cryocells เก็บตกด้วย Operator ในจังหวะ Retake และ First Pick",
@@ -89,14 +89,14 @@ const TEAM_DATA = [
       { name: "CheongGak", real: "Lee Sang-min", role: "Coach" }
     ],
     roster: [
-      { alias: "stax", real: "Kim Gu-taek", role: "IGL / Initiator", agents: ["Breach", "KAY/O", "Fade"] },
-      { alias: "BuZz", real: "Yu Byeong-cheol", role: "Duelist", agents: ["Jett", "Raze", "Yoru"] },
-      { alias: "Meteor", real: "Kim Tae-oh", role: "Sentinel / Flex", agents: ["Cypher", "Killjoy", "Sova"] },
-      { alias: "Munchkin", real: "Byeon Sang-beom", role: "Flex / Controller", agents: ["Viper", "Omen", "KAY/O"] },
-      { alias: "iZu", real: "Ham Woo-ju", role: "Controller / Flex", agents: ["Omen", "Astra", "Clove"] }
+      { alias: "stax", real: "Kim Gu-taek", role: "IGL / Controller", agents: ["Omen", "Harbor", "Breach"] },
+      { alias: "BuZz", real: "Yu Byeong-cheol", role: "Duelist", agents: ["Neon", "Phoenix", "Raze"] },
+      { alias: "Meteor", real: "Kim Tae-oh", role: "Duelist / Flex", agents: ["Yoru", "Chamber", "Jett"] },
+      { alias: "Munchkin", real: "Byeon Sang-beom", role: "Sentinel / Controller", agents: ["Viper", "Cypher", "Sova"] },
+      { alias: "iZu", real: "Ham Woo-ju", role: "Flex / Initiator", agents: ["Sova", "Fade", "Neon"] }
     ],
     star: "Meteor",
-    starRole: "Sentinel / Flex Anchor",
+    starRole: "Duelist / Flex Anchor",
     roadToChampions: "คว้าตั๋วผ่าน Championship Points #2 ของ Pacific — ผ่านความกดดันในรอบ Lower Bracket ของ Stage 2 ชนะ RRQ 2-1 ก่อนพ่าย Global Esports ใน Lower Final 1-3",
     recentForm: "ฟอร์มแกว่งในช่วงท้าย Stage 2 แต่ชดเชยด้วยประสบการณ์ของแกนผู้เล่นเกาหลีที่ผ่านศึกระดับโลกมานับไม่ถ้วน",
     tacticalIdentity: "Structured Defense & Late-Round Composure — เน้นการเซ็ตอัปดักทางและคอลเกมแบบใจเย็นของ stax พร้อมให้ Meteor คุมเสาหลักของแนวรับ",
@@ -124,14 +124,14 @@ const TEAM_DATA = [
       { name: "Desire", real: "Kim Jin-hyeok", role: "Assistant Coach" }
     ],
     roster: [
-      { alias: "BerLIN", real: "Zhang Bolin", role: "IGL / Initiator", agents: ["Fade", "Sova", "Breach"] },
-      { alias: "Yuicaw", real: "Huang Yung-chieh", role: "Duelist / OP", agents: ["Jett", "Yoru", "Chamber"] },
-      { alias: "jkuro", real: "Yong Haochong", role: "Initiator / Flex", agents: ["Gekko", "KAY/O", "Skye"] },
-      { alias: "zhe", real: "Niu Zhe", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "crownfisher", real: "Li Ao", role: "Sentinel", agents: ["Cypher", "Killjoy"] }
+      { alias: "BerLIN", real: "Zhang Bolin", role: "IGL / Initiator", agents: ["Sova", "Fade", "Skye"] },
+      { alias: "Yuicaw", real: "Huang Yung-chieh", role: "Sentinel / Flex", agents: ["Cypher", "Viper", "Vyse"] },
+      { alias: "jkuro", real: "Yong Haochong", role: "Duelist", agents: ["Raze", "Jett"] },
+      { alias: "zhe", real: "Niu Zhe", role: "Duelist / Flex", agents: ["Neon", "Chamber", "Phoenix"] },
+      { alias: "crownfisher", real: "Li Ao", role: "Controller / Flex", agents: ["Omen", "Harbor", "Jett"] }
     ],
     star: "Yuicaw",
-    starRole: "Duelist / Operator",
+    starRole: "Sentinel / Operator",
     roadToChampions: "รองแชมป์ China Stage 2 — เดินหน้าชนะใน Upper Bracket รวด เอาชนะ Wolves และ Dragon Ranger Gaming ก่อนพ่าย TYLOO ในรอบ Grand Final",
     recentForm: "ผลงานในประเทศยอดเยี่ยมต่อเนื่อง เป็นหนึ่งในทีมที่พัฒนาแผนการเล่นเร็วที่สุดในลีกจีนปี 2026",
     tacticalIdentity: "Disruptive Aggression & Micro-flanks — BerLIN มีสไตล์การคอลเกมที่กล้าได้กล้าเสีย ชื่นชอบการส่งตัวป่วนตัดหลังและบีบให้คู่แข่งต้องหันมองรอบทิศ",
@@ -159,11 +159,11 @@ const TEAM_DATA = [
       { name: "Bambino", real: "Mert Karakaş", role: "Assistant Coach" }
     ],
     roster: [
-      { alias: "xeus", real: "Doğan Gözgen", role: "Duelist", agents: ["Jett", "Raze", "Neon"] },
-      { alias: "yetujey", real: "Eray Budak", role: "Sentinel / Anchor", agents: ["Cypher", "Killjoy"] },
-      { alias: "sociablEE", real: "Volkan Yonal", role: "Initiator", agents: ["Sova", "Fade", "KAY/O"] },
-      { alias: "KROSTALY", real: "Okan Alaçam", role: "Controller", agents: ["Omen", "Viper", "Brimstone"] },
-      { alias: "s0pp", real: "Efe Tur", role: "Flex / Initiator", agents: ["Breach", "Gekko", "Fade"] }
+      { alias: "xeus", real: "Doğan Gözgen", role: "Duelist", agents: ["Raze", "Phoenix", "Jett"] },
+      { alias: "yetujey", real: "Eray Budak", role: "Sentinel / Controller", agents: ["Cypher", "Viper", "Astra"] },
+      { alias: "sociablEE", real: "Volkan Yonal", role: "Flex / Initiator", agents: ["Omen", "Breach", "Phoenix"] },
+      { alias: "KROSTALY", real: "Okan Alaçam", role: "Initiator", agents: ["Sova", "Skye", "Fade"] },
+      { alias: "s0pp", real: "Efe Tur", role: "Duelist / Entry", agents: ["Neon", "Jett"] }
     ],
     star: "xeus",
     starRole: "Duelist / Entry Fragger",
@@ -195,11 +195,11 @@ const TEAM_DATA = [
       { name: "Fields", real: "Jack Fields", role: "Analyst" }
     ],
     roster: [
-      { alias: "Autumn", real: "Kale Dunne", role: "Duelist", agents: ["Jett", "Chamber", "Yoru"] },
+      { alias: "Autumn", real: "Kale Dunne", role: "Duelist / Flex", agents: ["Yoru", "Chamber", "Jett"] },
       { alias: "PatMen", real: "Patrick Mendoza", role: "Controller / Flex", agents: ["Omen", "Viper", "Skye"] },
-      { alias: "Kr1stal", real: "Savva Fedorov", role: "IGL / Flex", agents: ["Sova", "KAY/O", "Breach"] },
-      { alias: "xavi8k", real: "Xavier Juan", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "UdoTan", real: "Go Kyung-won", role: "Initiator", agents: ["Gekko", "Skye", "Fade"] }
+      { alias: "Kr1stal", real: "Savva Fedorov", role: "IGL / Initiator", agents: ["Sova", "Killjoy", "Fade"] },
+      { alias: "xavi8k", real: "Xavier Juan", role: "Controller", agents: ["Astra", "Omen", "Sova"] },
+      { alias: "UdoTan", real: "Go Kyung-won", role: "Duelist / Flex", agents: ["Raze", "Neon"] }
     ],
     star: "PatMen",
     starRole: "Controller / Utility Fragger",
@@ -231,14 +231,14 @@ const TEAM_DATA = [
       { name: "slk", real: "Lucas Ramos", role: "Analyst" }
     ],
     roster: [
-      { alias: "Derke", real: "Nikita Niko Sirmitev", role: "Duelist", agents: ["Jett", "Raze", "Yoru"] },
-      { alias: "Chronicle", real: "Timofey Khromov", role: "Initiator / Flex", agents: ["Breach", "Sova", "KAY/O"] },
-      { alias: "Jamppi", real: "Elias Olkkonen", role: "Flex / Initiator", agents: ["Gekko", "Breach", "Sova"] },
-      { alias: "PROFEK", real: "Dawid Święć", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "Sayonara", real: "Ștefan Mîtcu", role: "Sentinel / Flex", agents: ["Cypher", "Killjoy", "Vyse"] }
+      { alias: "Derke", real: "Nikita Niko Sirmitev", role: "Duelist", agents: ["Jett", "Neon", "Raze"] },
+      { alias: "Chronicle", real: "Timofey Khromov", role: "Sentinel / Flex", agents: ["Chamber", "Vyse", "Viper"] },
+      { alias: "Jamppi", real: "Elias Olkkonen", role: "Duelist / Flex", agents: ["Phoenix", "Yoru", "Fade"] },
+      { alias: "PROFEK", real: "Dawid Święć", role: "Controller", agents: ["Omen", "Astra", "Harbor"] },
+      { alias: "Sayonara", real: "Ștefan Mîtcu", role: "Initiator / Flex", agents: ["Sova", "Fade", "Viper"] }
     ],
     star: "Derke",
-    starRole: "Duelist / Superstar Entry",
+    starRole: "Duelist / Lethal Entry",
     roadToChampions: "ผ่านเข้ารอบด้วย Championship Points #2 ของ EMEA — สะสมแต้มจากรอบ Masters และการยืนระยะในลีก EMEA ตลอดทั้งปี",
     recentForm: "มีช่วงสะดุดตกรอบเร็วใน Stage 2 Playoffs ให้กับ Team Heretics แต่เพดานศักยภาพของ Lineup ยังคงอยู่ในระดับเวิลด์คลาส",
     tacticalIdentity: "Star-Powered Firepower & Veteran Micro-Picks — ทีมที่มี Derke และ Chronicle คอยสร้างช็อตมหัศจรรย์และพลิกชนะ Round เสียเปรียบด้วยความสามารถเฉพาะตัวล้วนๆ",
@@ -267,14 +267,14 @@ const TEAM_DATA = [
       { name: "bajerski", real: "Lucas Bajerski", role: "Performance Coach" }
     ],
     roster: [
-      { alias: "Darker", real: "Sebastián Castro Cicuamia", role: "Duelist", agents: ["Jett", "Neon", "Raze"] },
-      { alias: "DaviH", real: "David Cruz", role: "Initiator", agents: ["Sova", "Fade", "KAY/O"] },
-      { alias: "lukxo", real: "Lucca Travaioli", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "erde", real: "Roberto Lobos", role: "Sentinel", agents: ["Cypher", "Killjoy"] },
-      { alias: "tkzin", real: "Enzo Zimiani", role: "Flex / Initiator", agents: ["Breach", "Gekko", "KAY/O"] }
+      { alias: "Darker", real: "Sebastián Castro Cicuamia", role: "Controller / Flex", agents: ["Omen", "Phoenix", "Viper"] },
+      { alias: "DaviH", real: "David Cruz", role: "Initiator", agents: ["Sova", "Fade"] },
+      { alias: "lukxo", real: "Lucca Travaioli", role: "Sentinel / Controller", agents: ["Chamber", "Yoru", "Viper"] },
+      { alias: "erde", real: "Roberto Lobos", role: "Controller / Sentinel", agents: ["Omen", "Sage", "Astra"] },
+      { alias: "tkzin", real: "Enzo Zimiani", role: "Duelist", agents: ["Neon", "Raze"] }
     ],
     star: "Darker",
-    starRole: "Duelist / Speed Entry",
+    starRole: "Controller / Speed Entry",
     roadToChampions: "รองแชมป์ Americas Stage 2 — วิ่งทะลุ Lower Bracket สุดเดือด โค่นทั้ง Sentinels, G2 Esports และ NRG 3-2 ก่อนสู้กับ 100 Thieves ถึงแมพ 5 ในรอบ Grand Final",
     recentForm: "ร้อนแรงสุดขีดหลังผ่านซีรีส์ Bo5 สุดระทึกในรอบชิง Americas เข้าถึงรอบชิงด้วยฟอร์มของผู้ท้าชิงแถวหน้า",
     tacticalIdentity: "Fearless Aggression & Fast Trade Chains — ยุคใหม่ของ LOUD เล่นด้วยความเร็ว เข้าประชิดตัว และเทรดคิลในระยะเผาขนตามเอกลักษณ์บราซิลดั้งเดิม",
@@ -303,14 +303,14 @@ const TEAM_DATA = [
       { name: "signed", real: "Guo Yuhang", role: "Coach" }
     ],
     roster: [
-      { alias: "ZmjjKK", real: "Zheng Yongkang", role: "Duelist / OP", agents: ["Jett", "Raze", "Yoru"] },
-      { alias: "nobody", real: "Wang Senxu", role: "IGL / Initiator", agents: ["Sova", "Fade", "Gekko"] },
-      { alias: "CHICHOO", real: "Wan Shunzhi", role: "Controller / Anchor", agents: ["Omen", "Viper", "Brimstone"] },
-      { alias: "Smoggy", real: "Zhang Zhao", role: "Flex / Initiator", agents: ["KAY/O", "Breach", "Clove"] },
-      { alias: "Jieni7", real: "Zhang Juntai", role: "Sentinel", agents: ["Cypher", "Killjoy"] }
+      { alias: "ZmjjKK", real: "Zheng Yongkang", role: "Duelist / OP", agents: ["Jett", "Neon", "Chamber"] },
+      { alias: "nobody", real: "Wang Senxu", role: "IGL / Initiator", agents: ["Sova", "Skye", "Fade"] },
+      { alias: "CHICHOO", real: "Wan Shunzhi", role: "Sentinel / Controller", agents: ["Cypher", "Viper", "Phoenix"] },
+      { alias: "Smoggy", real: "Zhang Zhao", role: "Controller / Flex", agents: ["Omen", "Harbor", "Raze"] },
+      { alias: "Jieni7", real: "Zhang Juntai", role: "Flex / Initiator", agents: ["KAY/O", "Omen", "Vyse"] }
     ],
     star: "ZmjjKK",
-    starRole: "Duelist / The King of Shanghai",
+    starRole: "Duelist / Operator",
     roadToChampions: "ตั๋วแต้มสะสม Championship Points #1 ของจีน — อดีตแชมป์โลก Champions 2024 ที่ยังคงเป็นสัญลักษณ์สูงสุดของวงการ VALORANT แดนมังกร",
     recentForm: "ใน Stage 2 มีฟอร์มแกว่งจนพลาดที่นั่งรอบชิง แต่ยังคงรักษาตั๋วผ่านคะแนนสะสมตลอดปี",
     tacticalIdentity: "Big-Stage Composure & Superstar Impact — สไตล์การเล่นที่เปลี่ยนเกียร์ได้เร็วเมื่อเข้าสู่ช่วงวิกฤต โดยมี KangKang เป็นศูนย์กลางในการทำลายจังหวะคู่แข่ง",
@@ -340,11 +340,11 @@ const TEAM_DATA = [
       { name: "Ominous", real: "Gao Peng", role: "Analyst" }
     ],
     roster: [
-      { alias: "splash", real: "Moses Christophe Jonathan", role: "Duelist", agents: ["Jett", "Raze", "Neon"] },
-      { alias: "SiuFatBB", real: "Pong Gaa Hei", role: "Initiator", agents: ["Fade", "Sova", "Gekko"] },
-      { alias: "Scales", real: "Zhang Zhen", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "slowly", real: "Kelun Sun", role: "Sentinel", agents: ["Cypher", "Killjoy"] },
-      { alias: "Erv", real: "Shen Zhiwei", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] }
+      { alias: "splash", real: "Moses Christophe Jonathan", role: "Duelist", agents: ["Raze", "Neon", "Phoenix"] },
+      { alias: "SiuFatBB", real: "Pong Gaa Hei", role: "Initiator", agents: ["Fade", "Sova", "Skye"] },
+      { alias: "Scales", real: "Zhang Zhen", role: "Sentinel / Controller", agents: ["Cypher", "Viper", "Sage"] },
+      { alias: "slowly", real: "Kelun Sun", role: "Duelist / Sentinel", agents: ["Jett", "Chamber"] },
+      { alias: "Erv", real: "Shen Zhiwei", role: "Flex / Controller", agents: ["Omen", "KAY/O"] }
     ],
     star: "splash",
     starRole: "Duelist / Lethal Entry",
@@ -376,11 +376,11 @@ const TEAM_DATA = [
       { name: "Robert", real: "Robert Dahlström", role: "Performance Coach" }
     ],
     roster: [
-      { alias: "valyn", real: "Jacob Batio", role: "IGL / Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "jawgemo", real: "Alexander Mor", role: "Duelist", agents: ["Neon", "Raze", "Jett"] },
-      { alias: "trent", real: "Trent Cairns", role: "Initiator", agents: ["Sova", "Fade", "Gekko"] },
-      { alias: "leaf", real: "Nathan Orf", role: "Sentinel / Anchor", agents: ["Killjoy", "Cypher", "Vyse"] },
-      { alias: "BABYBAY", real: "Andrej Francisty", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] }
+      { alias: "valyn", real: "Jacob Batio", role: "IGL / Controller", agents: ["Omen", "Harbor", "Astra"] },
+      { alias: "jawgemo", real: "Alexander Mor", role: "Duelist", agents: ["Neon", "Raze", "Phoenix"] },
+      { alias: "trent", real: "Trent Cairns", role: "Initiator", agents: ["Sova", "Skye", "Fade"] },
+      { alias: "leaf", real: "Nathan Orf", role: "Sentinel / Controller", agents: ["Viper", "Sage", "Yoru"] },
+      { alias: "BABYBAY", real: "Andrej Francisty", role: "Sentinel / Flex", agents: ["Chamber", "Vyse"] }
     ],
     star: "jawgemo",
     starRole: "Duelist / Movement King",
@@ -410,11 +410,11 @@ const TEAM_DATA = [
       { name: "Coaching Division", real: "Team Liquid VALORANT Staff", role: "Strategic Staff" }
     ],
     roster: [
-      { alias: "nAts", real: "Ayaz Akhmetshin", role: "Sentinel / Lurk Master", agents: ["Cypher", "Viper", "Killjoy"] },
-      { alias: "trexx", real: "Nikita Cherednichenko", role: "Initiator / Flex", agents: ["Sova", "Fade", "KAY/O"] },
-      { alias: "Kicks", real: "Kimmie Laasner", role: "Initiator", agents: ["Breach", "Gekko", "Skye"] },
-      { alias: "kamo", real: "Kamil Frąckowiak", role: "Duelist", agents: ["Jett", "Raze", "Neon"] },
-      { alias: "GSR", real: "Ognjen Bondžić", role: "Controller", agents: ["Omen", "Astra", "Viper"] }
+      { alias: "nAts", real: "Ayaz Akhmetshin", role: "Sentinel / Lurk Master", agents: ["Cypher", "Viper", "Vyse"] },
+      { alias: "trexx", real: "Nikita Cherednichenko", role: "Initiator", agents: ["Sova", "Fade", "Skye"] },
+      { alias: "Kicks", real: "Kimmie Laasner", role: "Controller / Flex", agents: ["Omen", "Harbor"] },
+      { alias: "kamo", real: "Kamil Frąckowiak", role: "Duelist", agents: ["Phoenix", "Raze", "Yoru"] },
+      { alias: "GSR", real: "Ognjen Bondžić", role: "Duelist / Sub", agents: ["Jett", "Raze"] }
     ],
     star: "nAts",
     starRole: "Sentinel / Information Genius",
@@ -446,11 +446,11 @@ const TEAM_DATA = [
       { name: "Panda", real: "Dae-young Kim", role: "Performance Coach" }
     ],
     roster: [
-      { alias: "f0rsakeN", real: "Jason Susanto", role: "Flex God / IGL", agents: ["Yoru", "Fade", "KAY/O", "Cypher"] },
-      { alias: "something", real: "Ilya Petrov", role: "Duelist / OP", agents: ["Jett", "Reyna", "Gekko"] },
-      { alias: "Jinggg", real: "Wang Jing Jie", role: "Duelist / Entry", agents: ["Raze", "Neon", "Phoenix"] },
-      { alias: "d4v41", real: "Khalish Rusyaidee", role: "Initiator / Anchor", agents: ["Skye", "Fade", "Viper"] },
-      { alias: "invy", real: "Adrian Jiggs Reyes", role: "Initiator / Flex", agents: ["Breach", "Sova", "KAY/O"] }
+      { alias: "f0rsakeN", real: "Jason Susanto", role: "Flex God / IGL", agents: ["Omen", "Harbor", "Yoru"] },
+      { alias: "something", real: "Ilya Petrov", role: "Duelist / Flex", agents: ["Yoru", "Sage", "Viper"] },
+      { alias: "Jinggg", real: "Wang Jing Jie", role: "Duelist / Flex", agents: ["Raze", "Harbor"] },
+      { alias: "d4v41", real: "Khalish Rusyaidee", role: "Flex / Anchor", agents: ["Viper", "Chamber", "Sage"] },
+      { alias: "invy", real: "Adrian Jiggs Reyes", role: "Initiator / Flex", agents: ["Sova", "Fade", "Harbor"] }
     ],
     star: "d4v41",
     starRole: "Support / Anchor (The Unshakable Pillar)",
@@ -481,14 +481,14 @@ const TEAM_DATA = [
       { name: "simoz", real: "Simon Bart", role: "Assistant Coach" }
     ],
     roster: [
-      { alias: "N4RRATE", real: "Marshall Massey", role: "Initiator / Flex Superstar", agents: ["Fade", "Gekko", "Raze"] },
-      { alias: "SUYGETSU", real: "Dmitry Ilyushin", role: "Sentinel / Site Anchor", agents: ["Cypher", "Killjoy", "Viper"] },
-      { alias: "dos9", real: "Zhumagali Dastan", role: "Duelist", agents: ["Jett", "Yoru", "Neon"] },
-      { alias: "LewN", real: "Burak Alkan", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "Avez", real: "Hazem Khaled", role: "Initiator", agents: ["Breach", "Sova", "KAY/O"] }
+      { alias: "N4RRATE", real: "Marshall Massey", role: "Flex / Superstar", agents: ["Chamber", "Phoenix", "Sage"] },
+      { alias: "SUYGETSU", real: "Dmitry Ilyushin", role: "Sentinel / Anchor", agents: ["Viper", "Cypher", "Astra"] },
+      { alias: "dos9", real: "Zhumagali Dastan", role: "Controller", agents: ["Omen", "Harbor"] },
+      { alias: "LewN", real: "Burak Alkan", role: "Duelist", agents: ["Neon", "Raze"] },
+      { alias: "Avez", real: "Hazem Khaled", role: "Initiator", agents: ["Fade", "Sova"] }
     ],
     star: "N4RRATE",
-    starRole: "Initiator / Flex Superstar",
+    starRole: "Flex / Superstar",
     roadToChampions: "แชมป์ EMEA Stage 2 สมัยล่าสุด — ครองบัลลังก์ EMEA ด้วยการชนะรวดในรอบ Playoffs ปราบ FUT 2-0 และตอกย้ำด้วยการชนะ Team Liquid 3-1 ในรอบ Grand Final",
     recentForm: "ฟอร์มกำลังร้อนแรงและสมบูรณ์แบบที่สุดของ EMEA เป็นหนึ่งในตัวเต็งที่จะคว้าแชมป์โลก Champions Shanghai 2026",
     tacticalIdentity: "Total Tactical Harmony & Relentless Pressure — การผสมผสานที่ลงตัวระหว่าง Site Anchor ระดับเวิลด์คลาสของ SUYGETSU กับ Space Creation และ Entry ของ N4RRATE",
@@ -516,11 +516,11 @@ const TEAM_DATA = [
       { name: "steady", real: "Dmitry Steady", role: "Assistant Coach" }
     ],
     roster: [
-      { alias: "Rarga", real: "Arthur Churyumov", role: "Duelist", agents: ["Jett", "Reyna", "Yoru"] },
-      { alias: "NoMan", real: "James Man", role: "IGL / Controller", agents: ["Omen", "Viper", "Astra"] },
-      { alias: "WsLeo", real: "Huang Pinwei", role: "Initiator", agents: ["Fade", "Sova", "Gekko"] },
-      { alias: "Lysoar", real: "Liang Youhao", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] },
-      { alias: "happywei", real: "Deng Minwei", role: "Sentinel", agents: ["Cypher", "Killjoy"] }
+      { alias: "Rarga", real: "Arthur Churyumov", role: "Duelist", agents: ["Neon", "Phoenix", "Jett"] },
+      { alias: "NoMan", real: "James Man", role: "Duelist / IGL", agents: ["Raze", "Jett"] },
+      { alias: "WsLeo", real: "Huang Pinwei", role: "Initiator", agents: ["Fade", "Sova", "Skye"] },
+      { alias: "Lysoar", real: "Liang Youhao", role: "Controller / Flex", agents: ["Omen", "Harbor", "Vyse"] },
+      { alias: "happywei", real: "Deng Minwei", role: "Controller / Sentinel", agents: ["Viper", "Omen", "Cypher"] }
     ],
     star: "Rarga",
     starRole: "Duelist / Chaos Maker",
@@ -552,11 +552,11 @@ const TEAM_DATA = [
       { name: "Sungmin", real: "Lee Sung-min", role: "Coach" }
     ],
     roster: [
-      { alias: "Dambi", real: "Lee Hyuk-kyu", role: "Duelist", agents: ["Jett", "Yoru", "Raze"] },
-      { alias: "Rb", real: "Goo Sang-min", role: "Flex Veteran", agents: ["Sova", "Fade", "KAY/O", "Breach"] },
-      { alias: "Francis", real: "Kim Mu-bin", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
-      { alias: "Ivy", real: "Park Sung-hyeon", role: "Initiator", agents: ["Gekko", "Breach", "Skye"] },
-      { alias: "Xross", real: "Jeonghwan", role: "Sentinel", agents: ["Cypher", "Killjoy"] }
+      { alias: "Dambi", real: "Lee Hyuk-kyu", role: "Duelist", agents: ["Neon", "Jett"] },
+      { alias: "Rb", real: "Goo Sang-min", role: "Flex Veteran", agents: ["Omen", "Yoru", "Harbor"] },
+      { alias: "Francis", real: "Kim Mu-bin", role: "Flex / Controller", agents: ["Yoru", "Sova", "Omen"] },
+      { alias: "Ivy", real: "Park Sung-hyeon", role: "Sentinel", agents: ["Cypher", "Viper", "Killjoy"] },
+      { alias: "Xross", real: "Jeonghwan", role: "Initiator / Flex", agents: ["Sova", "Phoenix", "Fade"] }
     ],
     star: "Dambi",
     starRole: "Duelist / Breakthrough Talent",
@@ -587,11 +587,11 @@ const TEAM_DATA = [
       { name: "mitch", real: "Mitch Semelroth", role: "Assistant Coach" }
     ],
     roster: [
-      { alias: "Ethan", real: "Ethan Arnold", role: "IGL / Initiator", agents: ["KAY/O", "Gekko", "Breach"] },
-      { alias: "keiko", real: "Georgio Sanassy", role: "Duelist", agents: ["Jett", "Raze", "Yoru"] },
-      { alias: "brawk", real: "Brock Somerhalder", role: "Initiator", agents: ["Sova", "Fade", "KAY/O"] },
-      { alias: "mada", real: "Adam Pampuch", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] },
-      { alias: "skuba", real: "Logan Jenkins", role: "Controller", agents: ["Omen", "Astra", "Viper"] }
+      { alias: "Ethan", real: "Ethan Arnold", role: "IGL / Flex", agents: ["KAY/O", "Phoenix", "Omen"] },
+      { alias: "keiko", real: "Georgio Sanassy", role: "Duelist / Flex", agents: ["Jett", "Chamber", "Omen"] },
+      { alias: "brawk", real: "Brock Somerhalder", role: "Initiator / Sentinel", agents: ["Sova", "Vyse"] },
+      { alias: "mada", real: "Adam Pampuch", role: "Duelist / Flex", agents: ["Neon", "Phoenix", "Harbor"] },
+      { alias: "skuba", real: "Logan Jenkins", role: "Controller / Sentinel", agents: ["Viper", "Cypher", "Omen"] }
     ],
     star: "Ethan",
     starRole: "IGL / Utility Maestro",
@@ -999,19 +999,19 @@ const PLAYERS_TO_WATCH = [
     name: "Cryocells",
     teamId: "100t",
     teamName: "100 Thieves",
-    role: "Duelist / Operator",
-    agents: "Jett · Yoru · Chamber",
-    highlight: "แชมป์ Americas Stage 2 จอมแม่น Operator มือหนึ่ง สถิติ First Blood และการปิด Clutch ในรอบชิงคือข้อพิสูจน์ว่าเขาพร้อมพา 100T ขึ้นสู่จุดสูงสุด",
-    statBadge: "AMER CHAMPION · TOP OP IMPACT"
+    role: "Duelist / Flex Fragger",
+    agents: "Cypher · Viper · Chamber",
+    highlight: "เอซคนสำคัญของ 100 Thieves ที่ใน Stage 2 ยกระดับความยืดหยุ่นด้วยการหยิบทั้ง Cypher, Viper และ Chamber มาล็อกพื้นที่ พร้อมสถิติ First Blood สูงลิ่วด้วยปืน Operator",
+    statBadge: "AMER CHAMPION · MULTI-ROLE IMPACT"
   },
   {
     num: "02",
     name: "ZmjjKK",
     teamId: "edg",
     teamName: "EDward Gaming",
-    role: "Duelist / Operator",
-    agents: "Jett · Raze · Yoru",
-    highlight: "มหาอุปราชแห่งเซี่ยงไฮ้และอดีตแชมป์โลก Champions 2024 กลับมาลงแข่งต่อหน้าแฟนคลับในบ้านเกิด ช็อตสะบัด Operator ของเขาสามารถเบรก Econ และเซ็ตโมเมนตัมของทั้งเกมได้ในนัดเดียว",
+    role: "Duelist / OP Specialist",
+    agents: "Jett · Neon · Chamber",
+    highlight: "มหาอุปราชแห่งเซี่ยงไฮ้และ MVP Champions 2024 ใน Stage 2 ระเบิดพลังด้วย Jett, Neon ความเร็วสูง และ Chamber ดวลสไนเปอร์กู้สถานการณ์ต่อหน้าแฟนคลับในบ้านเกิด",
     statBadge: "WORLD CHAMPION · HOME PHENOM"
   },
   {
@@ -1019,9 +1019,9 @@ const PLAYERS_TO_WATCH = [
     name: "N4RRATE",
     teamId: "kc",
     teamName: "Karmine Corp",
-    role: "Initiator / Flex Superstar",
-    agents: "Fade · Gekko · Raze",
-    highlight: "ซูเปอร์สตาร์ผู้เล่นตำแหน่ง Initiator ที่มีอิมแพกต์สูงที่สุดของ EMEA ทั้งการเปิด Vision, Mid-round Calling และการดวลปืนที่คมกริบจนพา KC ครองแชมป์ EMEA Stage 2",
+    role: "Flex / Star Fragger",
+    agents: "Chamber · Phoenix · Sage",
+    highlight: "ซูเปอร์สตาร์แห่ง EMEA Stage 2 ที่ขยับมาเล่นคอมป์ดุดันบน Chamber, Phoenix และ Sage ครองเรตติ้งและ First Kill แถวหน้าจนพา Karmine Corp ครองแชมป์ EMEA Stage 2",
     statBadge: "EMEA MVP CALIBER · DUAL THREAT"
   },
   {
@@ -1039,9 +1039,9 @@ const PLAYERS_TO_WATCH = [
     name: "d4v41",
     teamId: "prx",
     teamName: "Paper Rex",
-    role: "Support / Anchor",
-    agents: "Skye · Fade · Viper",
-    highlight: "ขั้วเดียวของ Paper Rex ที่ฟอร์มเสถียรที่สุด สถิติ Rating ≥ 1.00 ครบทุก Map ใน Playoffs เขาคือกระดูกสันหลังที่ทำให้สไตล์ W-Gaming เล่นได้อย่างมั่นใจ",
+    role: "Flex / Anchor",
+    agents: "Viper · Chamber · Sage",
+    highlight: "กระดูกสันหลังที่เสถียรที่สุดของ Paper Rex ใน Stage 2 ทำหน้าที่คุมจังหวะด้วย Viper, Chamber และ Sage เรตติ้ง ≥ 1.00 ครบทุกแมพในเพลย์ออฟ ปิดทองหลังพระให้เพื่อนลุย W-Gaming ได้อย่างไร้กังวล",
     statBadge: "THE UNSHAKABLE PILLAR · 100% ≥ 1.00 R"
   },
   {
@@ -1050,19 +1050,19 @@ const PLAYERS_TO_WATCH = [
     teamId: "tl",
     teamName: "Team Liquid",
     role: "Sentinel / Lurk Master",
-    agents: "Cypher · Viper · Killjoy",
-    highlight: "ปรมาจารย์ด้าน Map Control และ Mind Game จังหวะ Lurk ของเขาสามารถตรึงคู่แข่งทั้งทีมให้อยู่กับที่ และเป็นหัวใจสำคัญที่พา Liquid ทะลุเข้าสู่รอบชิง EMEA",
-    statBadge: "TACTICAL MASTERMIND · INFORMATION GOD"
+    agents: "Cypher · Viper · Vyse",
+    highlight: "ปรมาจารย์ Sentinel ที่เป็นผู้เล่นคนแรกๆ ใน EMEA ที่นำ Vyse มาผสานกับ Cypher และ Viper ใน Stage 2 การเล่น Lurk และอ่าน Rotation บีบให้คู่แข่งต้องเดินเกมด้วยความหวาดระแวงตลอดเวลา",
+    statBadge: "LURK GENIUS · VYSE INNOVATOR"
   },
   {
     num: "07",
     name: "Derke",
     teamId: "vit",
     teamName: "Team Vitality",
-    role: "Duelist / Superstar Entry",
-    agents: "Jett · Raze · Yoru",
-    highlight: "ตำนาน Entry Fragger ระดับเวิลด์คลาสที่ผ่านสังเวียนสากลมาโชกโชน แม้ Vitality จะเข้ามาด้วย Seed 4 แต่ความเฉียบคมของ Derke พร้อมระเบิดฟอร์มทะลวงแนวรับของทุกทีม",
-    statBadge: "LAN VETERAN · HISTORIC FIREPOWER"
+    role: "Duelist / Lethal Entry",
+    agents: "Jett · Neon · Raze",
+    highlight: "ดาวยิงระดับตำนานของวงการที่ใน Stage 2 โชว์ฟอร์มโหดด้วย Jett, Neon และ Raze สถิติ First Kill เฉลี่ยสูงติดท็อป 3 ยุโรป พร้อมเจาะทะลวงทุกแนวรับด้วยความมั่นใจ",
+    statBadge: "LAN VETERAN · TOP FIRST FRAG"
   },
   {
     num: "08",
@@ -1070,9 +1070,9 @@ const PLAYERS_TO_WATCH = [
     teamId: "nrg",
     teamName: "NRG",
     role: "IGL / Utility Maestro",
-    agents: "KAY/O · Gekko · Breach",
-    highlight: "อดีตแชมป์โลกและ IGL ผู้คอมโบ Utility ร่วมกับเพื่อนร่วมทีมได้อย่างสมบูรณ์แบบ เข็มทิศของ NRG ที่พร้อมลากทุกคู่แข่งเข้าสู่เกม Mid-Round อันละเอียดอ่อน",
-    statBadge: "CHAMPION IGL · UTILITY MASTER"
+    agents: "KAY/O · Phoenix · Omen",
+    highlight: "กัปตันทีมและมันสมองของ NRG ที่ใน Stage 2 ขยายพูลมาเล่นทั้ง KAY/O, Phoenix และ Omen ประสานสกิล Flash และ Smokes ได้คมกริบ พร้อมคุมจังหวะ Mid-round ให้เพื่อนร่วมทีมเล่นง่าย",
+    statBadge: "WORLD CHAMPION IGL · TOP ASSISTS"
   }
 ];
 
