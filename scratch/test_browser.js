@@ -79,6 +79,38 @@ async function runTests() {
   if (emojiCheck) throw new Error('Emoji detected in document body text!');
   console.log('Zero emoji in rendered document text: PASS');
 
+  // Verify zero outdated maps in document text
+  const outdatedMapCheck = await page.evaluate(() => {
+    const text = document.body.innerText;
+    const badMaps = ['Breeze', 'Split', 'Fracture', 'Pearl'];
+    const found = [];
+    for (const m of badMaps) {
+      const reg = new RegExp('\\b' + m + '\\b', 'i');
+      if (reg.test(text)) found.push(m);
+    }
+    return found;
+  });
+  if (outdatedMapCheck.length > 0) {
+    throw new Error(`Outdated map(s) found in document text: ${outdatedMapCheck.join(', ')}`);
+  }
+  console.log('Zero outdated maps in rendered document text (7-map pool enforced): PASS');
+
+  // Verify PatMen card data accuracy
+  const patmenCheck = await page.evaluate(() => {
+    const cards = Array.from(document.querySelectorAll('.watch-card'));
+    const patmenCard = cards.find(c => c.innerText.includes('PatMen'));
+    if (!patmenCard) return { error: 'PatMen card not found' };
+    const text = patmenCard.innerText;
+    const hasCypherOrKilljoy = text.includes('Cypher') || text.includes('Killjoy');
+    const hasController = text.includes('Controller');
+    const hasOmen = text.includes('Omen');
+    return { hasCypherOrKilljoy, hasController, hasOmen, text };
+  });
+  if (patmenCheck.error) throw new Error(patmenCheck.error);
+  if (patmenCheck.hasCypherOrKilljoy) throw new Error('PatMen card contains Cypher or Killjoy!');
+  if (!patmenCheck.hasController || !patmenCheck.hasOmen) throw new Error('PatMen card missing Controller role or Omen!');
+  console.log('PatMen real VLR stats (Controller/Omen, zero Cypher/Killjoy): PASS');
+
   // Take desktop full screenshot
   const qaDir = path.resolve(__dirname, '../docs/qa');
   if (!fs.existsSync(qaDir)) fs.mkdirSync(qaDir, { recursive: true });

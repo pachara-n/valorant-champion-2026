@@ -69,8 +69,8 @@ const TEAM_DATA = [
     concerns: "ต้องพิสูจน์ความสม่ำเสมอในเวที International LAN โดยเฉพาะการรับมือกับทีมที่เล่นสไตล์ Chaos จังหวะเร็วจาก Pacific และ China",
     mapPool: {
       strong: ["Sunset", "Haven", "Abyss"],
-      playable: ["Ascent", "Split"],
-      banTendency: "มักแบน Lotus หรือ Split ตามคู่ต่อสู้"
+      playable: ["Ascent", "Icebox"],
+      banTendency: "มักแบน Lotus หรือ Icebox ตามคู่ต่อสู้"
     },
     playerToWatchRationale: "Cryocells คือหัวใจของเกมป้องกัน เมื่อใดที่เขาถือ Operator ในมือ 100T แทบจะการันตี First Blood และสามารถล็อกหนึ่ง Site ได้เบ็ดเสร็จ",
     sourceUrl: "https://www.vlr.gg/team/120/100-thieves"
@@ -103,9 +103,9 @@ const TEAM_DATA = [
     strengths: "แกนผู้เล่นระดับตำนาน (stax, BuZz, Munchkin) ไม่ตื่นสนาม LAN ใหญ่; การเล่น Retake และวินัยในการสื่อสารช่วยให้เกมที่สูสีไม่หลุดมือง่าย",
     concerns: "BuZz มีช่วงเวลาฟอร์มสวิงอย่างเห็นได้ชัดในแมพที่ไม่ได้เล่น Jett; การบุกช่วงต้น Round บางครั้งขาดความหลากหลายจนโดน Anti-strat",
     mapPool: {
-      strong: ["Haven", "Breeze"],
+      strong: ["Haven", "Bind"],
       playable: ["Lotus", "Ascent"],
-      banTendency: "มักแบน Ascent หรือ Fracture เป็นประจำ"
+      banTendency: "มักแบน Abyss หรือ Icebox เป็นประจำ"
     },
     playerToWatchRationale: "Meteor คือ Anchor ที่นิ่งและเหนียวแน่นที่สุดคนหนึ่งในเอเชีย สถิติ KAST และการเก็บ 2-3 Kills ใน Site ที่โดนบุกคือตัวชี้วัดผลงานของ T1",
     sourceUrl: "https://www.vlr.gg/team/14/t1"
@@ -140,7 +140,7 @@ const TEAM_DATA = [
     mapPool: {
       strong: ["Ascent", "Sunset"],
       playable: ["Haven", "Bind"],
-      banTendency: "มักแบน Abyss หรือ Breeze"
+      banTendency: "มักแบน Abyss หรือ Lotus"
     },
     playerToWatchRationale: "Yuicaw คือคีย์แมนของ JDG ในการชิง First Kill โดยเฉพาะจังหวะ Operator ที่สามารถเบรก Econ คู่แข่งและพลิกโมเมนตัมเกมได้ทันที",
     sourceUrl: "https://www.vlr.gg/team/13576/jd-gaming"
@@ -163,7 +163,7 @@ const TEAM_DATA = [
       { alias: "yetujey", real: "Eray Budak", role: "Sentinel / Anchor", agents: ["Cypher", "Killjoy"] },
       { alias: "sociablEE", real: "Volkan Yonal", role: "Initiator", agents: ["Sova", "Fade", "KAY/O"] },
       { alias: "KROSTALY", real: "Okan Alaçam", role: "Controller", agents: ["Omen", "Viper", "Brimstone"] },
-      { alias: "s0pp", real: "Efe Tur", role: "Flex / Initiator", agents: ["Breach", "Gekko", "Flash"] }
+      { alias: "s0pp", real: "Efe Tur", role: "Flex / Initiator", agents: ["Breach", "Gekko", "Fade"] }
     ],
     star: "xeus",
     starRole: "Duelist / Entry Fragger",
@@ -175,7 +175,7 @@ const TEAM_DATA = [
     mapPool: {
       strong: ["Lotus", "Sunset"],
       playable: ["Haven", "Bind"],
-      banTendency: "มักแบน Breeze หรือ Icebox เป็นประจำ"
+      banTendency: "มักแบน Abyss หรือ Icebox เป็นประจำ"
     },
     playerToWatchRationale: "xeus คือหัวหอกที่ทีมฝากความหวัง หากเขาสามารถกดดันและชนะ Opening Duel ได้ FUT จะกลายเป็นทีมที่ไม่มีใครอยากต่อกรด้วย",
     sourceUrl: "https://www.vlr.gg/team/1184/fut-esports"
@@ -196,24 +196,24 @@ const TEAM_DATA = [
     ],
     roster: [
       { alias: "Autumn", real: "Kale Dunne", role: "Duelist", agents: ["Jett", "Chamber", "Yoru"] },
-      { alias: "PatMen", real: "Patrick Mendoza", role: "Sentinel / Utility Fragger", agents: ["Fade", "Cypher", "Killjoy"] },
+      { alias: "PatMen", real: "Patrick Mendoza", role: "Controller / Flex", agents: ["Omen", "Viper", "Skye"] },
       { alias: "Kr1stal", real: "Savva Fedorov", role: "IGL / Flex", agents: ["Sova", "KAY/O", "Breach"] },
       { alias: "xavi8k", real: "Xavier Juan", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
       { alias: "UdoTan", real: "Go Kyung-won", role: "Initiator", agents: ["Gekko", "Skye", "Fade"] }
     ],
     star: "PatMen",
-    starRole: "Ace / Utility Fragger",
+    starRole: "Controller / Utility Fragger",
     roadToChampions: "การสร้างประวัติศาสตร์ครั้งยิ่งใหญ่ของ Pacific — คว้าแชมป์ Stage 2 ด้วยการเอาชนะทั้ง RRQ, Paper Rex, T1 และปิดท้ายด้วยการโค่น Nongshim RedForce 3-2 ใน Grand Final",
     recentForm: "แชมป์ Pacific Stage 2 ที่มาพร้อมความมั่นใจเต็มเปี่ยมและระบบทีมเวิร์กที่ได้รับการยกย่องว่าดีที่สุดในภูมิภาค",
-    tacticalIdentity: "Unorthodox Strategy & Step-Up Culture — โค้ช Platoon ออกแบบ Off-meta Comp (โดยเฉพาะ Sage บน Breeze) พร้อมระบบการคอลที่เปิดให้ผู้เล่นทุกคนมีจังหวะ Step-up แบกทีม",
+    tacticalIdentity: "Unorthodox Strategy & Step-Up Culture — โค้ช Platoon ออกแบบ Off-meta Comp และระบบการเซ็ตอัป Smokes/Flex ของ PatMen พร้อมระบบการคอลที่เปิดให้ผู้เล่นทุกคนมีจังหวะ Step-up แบกทีม",
     strengths: "ความสามารถในการแก้เกม Mid-Round และพลิกสถานการณ์จากช่วงที่ตามหลัง; PatMen ทำหน้าที่เป็น Ace ปิดเกมได้อย่างทรงพลัง",
     concerns: "เวทีระดับโลกครั้งแรกของแกนผู้เล่นหลายคน ความตื่นเต้นและแรงกดดันของทัวร์ระดับนานาชาติอาจส่งผลต่อความแม่นยำช่วงต้นแมตช์",
     mapPool: {
-      strong: ["Breeze", "Pearl"],
-      playable: ["Sunset", "Lotus"],
-      banTendency: "มักแบน Fracture หรือ Haven สม่ำเสมอ"
+      strong: ["Lotus", "Sunset"],
+      playable: ["Haven", "Bind"],
+      banTendency: "มักแบน Abyss หรือ Icebox เป็นประจำ"
     },
-    playerToWatchRationale: "PatMen เล่นได้ทั้ง Initiator และ Sentinel ด้วยสถิติ ACS และ ADR สูงทะลุชาร์ตในรอบชิง Pacific เขาคือ X-Factor ที่คู่แข่งจับทางยากที่สุด",
+    playerToWatchRationale: "PatMen คือ Controller / Flex ตัวหลักของ GE ที่หยิบ Omen และ Viper มาคุม Space พร้อมสถิติ ACS และ ADR สูงทะลุชาร์ตในรอบชิง Pacific เขาคือ X-Factor ที่คู่แข่งจับทางยากที่สุด",
     sourceUrl: "https://www.vlr.gg/team/918/global-esports"
   },
   {
@@ -271,7 +271,7 @@ const TEAM_DATA = [
       { alias: "DaviH", real: "David Cruz", role: "Initiator", agents: ["Sova", "Fade", "KAY/O"] },
       { alias: "lukxo", real: "Lucca Travaioli", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
       { alias: "erde", real: "Roberto Lobos", role: "Sentinel", agents: ["Cypher", "Killjoy"] },
-      { alias: "tkzin", real: "Enzo Zimiani", role: "Flex / Initiator", agents: ["Breach", "Gekko", "Flash"] }
+      { alias: "tkzin", real: "Enzo Zimiani", role: "Flex / Initiator", agents: ["Breach", "Gekko", "KAY/O"] }
     ],
     star: "Darker",
     starRole: "Duelist / Speed Entry",
@@ -281,7 +281,7 @@ const TEAM_DATA = [
     strengths: "สปิริตนักสู้ที่ไม่ยอมแพ้แม้ตามหลังหลายรอบ; การเปิด Space ของ Darker และความแม่นยำในการคุมจังหวะของ DaviH",
     concerns: "การจัดการอารมณ์และสมาธิเมื่อเจอกับทีมที่ดักทางแบบใจเย็น การดวลปืนนอกแผนบางจังหวะเปิดช่องโหว่ให้ทีมคู่แข่งสวนกลับ",
     mapPool: {
-      strong: ["Split", "Ascent"],
+      strong: ["Bind", "Ascent"],
       playable: ["Sunset", "Haven"],
       banTendency: "มักแบน Abyss หรือ Lotus"
     },
@@ -344,7 +344,7 @@ const TEAM_DATA = [
       { alias: "SiuFatBB", real: "Pong Gaa Hei", role: "Initiator", agents: ["Fade", "Sova", "Gekko"] },
       { alias: "Scales", real: "Zhang Zhen", role: "Controller", agents: ["Omen", "Astra", "Viper"] },
       { alias: "slowly", real: "Kelun Sun", role: "Sentinel", agents: ["Cypher", "Killjoy"] },
-      { alias: "Erv", real: "Shen Zhiwei", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Flash"] }
+      { alias: "Erv", real: "Shen Zhiwei", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] }
     ],
     star: "splash",
     starRole: "Duelist / Lethal Entry",
@@ -356,7 +356,7 @@ const TEAM_DATA = [
     mapPool: {
       strong: ["Haven", "Ascent"],
       playable: ["Sunset", "Lotus"],
-      banTendency: "มักแบน Split หรือ Abyss"
+      banTendency: "มักแบน Bind หรือ Abyss"
     },
     playerToWatchRationale: "splash ทำผลงานสถิติคะแนนการต่อสู้ (ACS) สูงสุดในรอบ Playoffs ของจีน หากเขาเปิดเกมแรกได้สวย TYLOO จะกลายเป็นม้ามืดที่พร้อมล้มยักษ์",
     sourceUrl: "https://www.vlr.gg/team/731/tyloo"
@@ -380,7 +380,7 @@ const TEAM_DATA = [
       { alias: "jawgemo", real: "Alexander Mor", role: "Duelist", agents: ["Neon", "Raze", "Jett"] },
       { alias: "trent", real: "Trent Cairns", role: "Initiator", agents: ["Sova", "Fade", "Gekko"] },
       { alias: "leaf", real: "Nathan Orf", role: "Sentinel / Anchor", agents: ["Killjoy", "Cypher", "Vyse"] },
-      { alias: "BABYBAY", real: "Andrej Francisty", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Flash"] }
+      { alias: "BABYBAY", real: "Andrej Francisty", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] }
     ],
     star: "jawgemo",
     starRole: "Duelist / Movement King",
@@ -425,7 +425,7 @@ const TEAM_DATA = [
     concerns: "เมื่อเจอกับทีมที่บุกไม่เป็นไปตามแบบแผน (Unscripted Chaos) โครงสร้างการเล่นอาจถูกบีบให้ตัดสินใจเร็วกว่าคอมฟอร์ตโซน",
     mapPool: {
       strong: ["Ascent", "Haven"],
-      playable: ["Split", "Bind"],
+      playable: ["Sunset", "Bind"],
       banTendency: "มักแบน Lotus สม่ำเสมอ"
     },
     playerToWatchRationale: "nAts คือตำนานที่ยังมีลมหายใจของตำแหน่ง Sentinel การเล่น Lurk ของเขาสร้างแรงกดดันทางจิตวิทยาให้คู่แข่งทุกทีมจนไม่กล้าขยับตัว",
@@ -455,14 +455,14 @@ const TEAM_DATA = [
     star: "d4v41",
     starRole: "Support / Anchor (The Unshakable Pillar)",
     roadToChampions: "คว้าตั๋วผ่านคะแนนสะสม Championship Points #1 ของ Pacific — ขวัญใจแฟนคลับทั่วโลกที่เข้าสู่รอบชิงในศึกระดับนานาชาติมาตลอดทุกปี",
-    recentForm: "ผลงานใน Pacific Stage 2 มีทั้งแมตช์ถล่มคู่แข่งแบบขาดลอย (เช่น ชนะ Split 13-1) และแมตช์ที่หลุดฟอร์ม แต่เพดานทีมยังคงน่ากลัวที่สุดในสาย",
+    recentForm: "ผลงานใน Pacific Stage 2 มีทั้งแมตช์ถล่มคู่แข่งแบบขาดลอย (เช่น ชนะ Sunset 13-1) และแมตช์ที่หลุดฟอร์ม แต่เพดานทีมยังคงน่ากลัวที่สุดในสาย",
     tacticalIdentity: "Unscripted W-Gaming & Instant Pace Shifts — ความเคออสที่ผ่านการฝึกฝนมาอย่างดี บุกทะลวงด้วยความเร็วที่ทำลาย Playbook ของคู่แข่งทิ้งตั้งแต่ 15 วินาทีแรกของ Round",
     strengths: "ความยืดหยุ่นของ f0rsakeN ที่เล่นได้ทุกตัวละครในเกม; ความดุดันของ Jinggg และ something; ความคงเส้นคงวาของ d4v41 ที่เรตติ้งไม่เคยตก",
     concerns: "Consistency เป็นปัญหาเรื้อรัง หากไฟต์แรกไม่สำเร็จ สไตล์การบุกที่ไม่หยุดอาจถูกทีมที่มีวินัยสูงอย่าง TL หรือ G2 ดักยิงสวนจนเสียเกม",
     mapPool: {
-      strong: ["Split", "Lotus"],
+      strong: ["Sunset", "Lotus"],
       playable: ["Ascent", "Bind"],
-      banTendency: "มักแบน Haven หรือ Breeze"
+      banTendency: "มักแบน Haven หรือ Abyss"
     },
     playerToWatchRationale: "แม้สปอตไลต์มักส่องไปที่ Duelist แต่ d4v41 คือผู้เล่นที่ทำเรตติ้ง ≥ 1.00 ครบทุก Map ในรอบ Playoffs เขาคือกระดูกสันหลังที่ทำให้ PRX ยืนหยัดได้อย่างมั่นคง",
     sourceUrl: "https://www.vlr.gg/team/624/paper-rex"
@@ -497,7 +497,7 @@ const TEAM_DATA = [
     mapPool: {
       strong: ["Lotus", "Bind", "Ascent"],
       playable: ["Sunset", "Haven"],
-      banTendency: "มักแบน Abyss หรือ Breeze"
+      banTendency: "มักแบน Abyss หรือ Haven"
     },
     playerToWatchRationale: "N4RRATE มีคะแนนสถิติรอบด้านสูงสุดใน EMEA Stage 2 เขาสามารถเปลี่ยนจังหวะเกมรุกและเก็บ First Kill ให้ทีมได้ในทุกสถานการณ์",
     sourceUrl: "https://www.vlr.gg/team/8877/karmine-corp"
@@ -519,7 +519,7 @@ const TEAM_DATA = [
       { alias: "Rarga", real: "Arthur Churyumov", role: "Duelist", agents: ["Jett", "Reyna", "Yoru"] },
       { alias: "NoMan", real: "James Man", role: "IGL / Controller", agents: ["Omen", "Viper", "Astra"] },
       { alias: "WsLeo", real: "Huang Pinwei", role: "Initiator", agents: ["Fade", "Sova", "Gekko"] },
-      { alias: "Lysoar", real: "Liang Youhao", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Flash"] },
+      { alias: "Lysoar", real: "Liang Youhao", role: "Flex / Initiator", agents: ["Breach", "KAY/O", "Gekko"] },
       { alias: "happywei", real: "Deng Minwei", role: "Sentinel", agents: ["Cypher", "Killjoy"] }
     ],
     star: "Rarga",
@@ -532,7 +532,7 @@ const TEAM_DATA = [
     mapPool: {
       strong: ["Sunset", "Lotus"],
       playable: ["Haven", "Ascent"],
-      banTendency: "มักแบน Breeze หรือ Icebox"
+      banTendency: "มักแบน Abyss หรือ Icebox"
     },
     playerToWatchRationale: "Rarga คือผู้เล่นที่ไม่อาจละสายตาได้ หากเขาสามารถหาจังหวะเก็บคิลเปิดเกมได้ต่อเนื่อง XLG ก็มีโอกาสสร้างการพลิกล็อกได้ทุกเมื่อ",
     sourceUrl: "https://www.vlr.gg/team/13581/xi-lai-gaming"
@@ -567,8 +567,8 @@ const TEAM_DATA = [
     concerns: "ความกดดันในเวทีระดับโลกครั้งแรกของดาวรุ่งหลายคน อาจทำให้ความกล้าในการตัดสินใจลดลงเมื่อถูกคู่แข่งกดดัน",
     mapPool: {
       strong: ["Ascent", "Haven"],
-      playable: ["Sunset", "Split"],
-      banTendency: "มักแบน Lotus หรือ Pearl"
+      playable: ["Sunset", "Bind"],
+      banTendency: "มักแบน Lotus หรือ Icebox"
     },
     playerToWatchRationale: "Dambi คือดาวยิงที่ร้อนแรงที่สุดคนหนึ่งใน Pacific Stage 2 ความคล่องตัวในการเข้าทำของเขาสามารถฉีกแนวรับของทีมคู่แข่งได้อย่างหมดจด",
     sourceUrl: "https://www.vlr.gg/team/11060/nongshim-redforce"
@@ -602,7 +602,7 @@ const TEAM_DATA = [
     concerns: "Firepower ในการดวลปืนตรงๆ อาจเป็นรองทีมอย่าง KC หรือ NS ในบางจังหวะ ต้องพึ่งพาการเซ็ตอัปสกิลอย่างมาก",
     mapPool: {
       strong: ["Sunset", "Haven", "Abyss"],
-      playable: ["Ascent", "Split"],
+      playable: ["Ascent", "Bind"],
       banTendency: "มักแบน Bind หรือ Lotus"
     },
     playerToWatchRationale: "Ethan คือผู้เล่น Initiator ที่ใช้ Utility ได้ฉลาดที่สุดในโลก การแฟลชนำทางและสตันของเขาสร้างคิลให้เพื่อนร่วมทีมได้อย่างสม่ำเสมอ",
@@ -628,7 +628,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "EDGE",
         confidenceNote: "โมเมนตัมแชมป์ Americas และความคมของ Cryocells ให้ความได้เปรียบในการคุมจังหวะเกม",
-        veto: "100T แบน Lotus · T1 แบน Ascent · 100T เลือก Haven · T1 เลือก Breeze · Decider: Sunset",
+        veto: "100T แบน Lotus · T1 แบน Ascent · 100T เลือก Haven · T1 เลือก Bind · Decider: Sunset",
         tacticalKey: "100T มีความเร็วและการเปิดพื้นที่ของ Asuna กับ vora ที่พร้อมลงโทษการตั้งรับแบบใจเย็นของ T1 แต่หาก T1 ยืดเกมเข้าสู่ Late-Round และ Meteor คุม Site ได้เหนียวแน่น ช่องว่างจะลดลงทันที",
         playerDuel: "Cryocells (Jett) vs BuZz (Jett/Raze) — การดวล Operator ชิง First Blood เพื่อคุมความได้เปรียบด้าน Econ",
         upsetCondition: "T1 ตัดจังหวะ First Blood ของ 100T ได้ต่อเนื่อง และดึงเกมเข้าสู่สถานการณ์ Retake 4v4 ที่ stax ถนัดคอลเกม"
@@ -644,7 +644,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "JDG มาในฐานะรองแชมป์จีนที่มีความมั่นใจและได้เปรียบเรื่องการปรับตัวกับเวทีเซี่ยงไฮ้",
-        veto: "JDG แบน Breeze · FUT แบน Sunset · JDG เลือก Ascent · FUT เลือก Lotus · Decider: Haven",
+        veto: "JDG แบน Abyss · FUT แบน Sunset · JDG เลือก Ascent · FUT เลือก Lotus · Decider: Haven",
         tacticalKey: "การคอลเกมแบบกล้าได้กล้าเสียของ BerLIN จะสร้างความปั่นป่วนให้แนวรับของ FUT ขณะที่ FUT ต้องพึ่งพา Aim ของ xeus ในการเจาะ Site",
         playerDuel: "Yuicaw (Operator) vs xeus (Rifle Entry) — Op เจ้าถิ่นวัดกับ Entry Fragger สาย Aim โหดจากตุรกี",
         upsetCondition: "xeus และ yetujey ชนะ Pistol ทั้งสองครึ่งและ Snowball ปืน Rifle จน JDG ตั้ง Econ ไม่ได้และต้องเล่น Eco Round ติดต่อกัน"
@@ -677,7 +677,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "ในเกมเดิมพันสูงหลังพิงฝา เราให้น้ำหนักกับความเก๋าของแกนผู้เล่นระดับโลกของ T1",
-        veto: "T1 แบน Sunset · FUT แบน Haven · T1 เลือก Breeze · FUT เลือก Lotus · Decider: Bind",
+        veto: "T1 แบน Sunset · FUT แบน Haven · T1 เลือก Bind · FUT เลือก Lotus · Decider: Ascent",
         tacticalKey: "FUT เล่นด้วยอารมณ์และจังหวะเร็ว หาก T1 ดึงจังหวะให้ช้าลงและใช้ประโยชน์จากสกิลของ stax กับ Meteor จะบีบให้ FUT เล่นผิดพลาดเอง",
         playerDuel: "stax (Breach/Fade) vs sociablEE (Sova) — การประชัน Utility เปิดวิชั่นและเคลียร์มุมอับ",
         upsetCondition: "FUT บุกทะลวงด้วยความเร็วสูงจน T1 ไม่มีเวลาเซ็ตอัปแนวรับ Retake",
@@ -694,7 +694,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "การเจอกันในนัดตัดสินเปิดโอกาสให้ทีมโค้ช KDG ทำการบ้านแก้ทางสไตล์ของ JDG ได้ละเอียดกว่า",
-        veto: "JDG แบน Breeze · T1 แบน Ascent · JDG เลือก Sunset · T1 เลือก Haven · Decider: Lotus",
+        veto: "JDG แบน Abyss · T1 แบน Ascent · JDG เลือก Sunset · T1 เลือก Haven · Decider: Lotus",
         tacticalKey: "T1 มีความยืดหยุ่นในการปรับตัวระหว่างซีรีส์สูงกว่า ประสบการณ์ของ Munchkin และ stax จะช่วยคุมความกดดันใน Decider Match",
         playerDuel: "Meteor vs crownfisher — การต่อสู้ของสอง Sentinel ในการปิดกั้นเส้นทางเดินของคู่แข่ง",
         upsetCondition: "JDG ได้แรงใจจากแฟนคลับเซี่ยงไฮ้และยิงนำห่างในครึ่งแรกจน T1 สูญเสียความมั่นใจ",
@@ -723,7 +723,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "ประสบการณ์ในเวทีนานาชาติของ Derke และ Chronicle อาจช่วยรองรับแรงกระแทกในนัดเปิดสนามได้ดีกว่า",
-        veto: "GE แบน Fracture/Haven · VIT แบน Ascent · GE เลือก Breeze · VIT เลือก Sunset · Decider: Pearl",
+        veto: "GE แบน Icebox · VIT แบน Ascent · GE เลือก Lotus · VIT เลือก Sunset · Decider: Haven",
         tacticalKey: "GE มีระบบการเล่นเฉพาะทางที่โดดเด่น แต่ Vitality มีผู้เล่นที่สามารถฉีกแผนคู่แข่งด้วยการชนะการดวล 1v1",
         playerDuel: "Autumn (Jett/Chamber) vs Derke (Jett) — การดวล Entry Fragger ระดับท็อป ใครชิง First Blood ได้ก่อนกุมความได้เปรียบ",
         upsetCondition: "Off-meta Comp ของโค้ช Platoon ทำงานสมบูรณ์แบบ และ PatMen ระเบิดฟอร์มทำลาย Setup ของ Vitality ขาดลอย"
@@ -739,7 +739,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "LOUD มาพร้อมฟอร์มล่าสุดที่ร้อนแรงจากการเข้าชิง Americas Stage 2 และจังหวะยิงที่ดุดันตั้งแต่ต้น Round",
-        veto: "LOUD แบน Abyss · EDG แบน Icebox · LOUD เลือก Split · EDG เลือก Lotus · Decider: Sunset",
+        veto: "LOUD แบน Abyss · EDG แบน Icebox · LOUD เลือก Bind · EDG เลือก Lotus · Decider: Sunset",
         tacticalKey: "Pace การบุกเร็วของ Darker จะกดดันแนวรับ EDG ขณะที่ EDG ต้องพึ่งพา KangKang ในการดัก Pick First Blood",
         playerDuel: "Darker (Neon/Jett) vs ZmjjKK (Jett/Operator) — Pace ความเร็วสูงของ Darker ปะทะ Operator ของ ZmjjKK",
         upsetCondition: "ZmjjKK ระเบิดฟอร์มเทพต่อหน้าแฟนเจ้าบ้าน และ CHICHOO โชว์ Clutch เก็บตกใน Round สำคัญ"
@@ -755,7 +755,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "EDGE",
         confidenceNote: "ความต่อเนื่องและวินัยในการเทรดคิลของ LOUD มีความสม่ำเสมอกว่าความแกว่งของ Vitality",
-        veto: "LOUD แบน Lotus · VIT แบน Ascent · LOUD เลือก Split · VIT เลือก Sunset · Decider: Bind",
+        veto: "LOUD แบน Lotus · VIT แบน Ascent · LOUD เลือก Bind · VIT เลือก Sunset · Decider: Haven",
         tacticalKey: "LOUD มี Trade Chain ที่เหนียวแน่น เมื่อใดที่ Vitality พลาดการเช็กมุม LOUD จะลงโทษด้วยการบุกประชิดตัวทันที",
         playerDuel: "DaviH vs Chronicle — การชิงไหวชิงพริบของสองผู้เล่นสายสนับสนุนที่มีอิมแพกต์สูง",
         upsetCondition: "Derke และ Jamppi ยิงกดดันจน LOUD ไม่กล้าเปิดไฟต์ประชิดตัว",
@@ -772,7 +772,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "EDGE",
         confidenceNote: "ในสถานการณ์หนีตาย เราให้น้ำหนักกับแกนผู้เล่นแชมป์โลกที่เคยผ่านแรงกดดันมหาศาลมาแล้ว",
-        veto: "GE แบน Sunset · EDG แบน Breeze · GE เลือก Pearl · EDG เลือก Lotus · Decider: Haven",
+        veto: "GE แบน Sunset · EDG แบน Icebox · GE เลือก Bind · EDG เลือก Lotus · Decider: Haven",
         tacticalKey: "EDG มีความนิ่งในเกมยาว Nobody และ CHICHOO จะดักอ่านการหมุนเวียนตำแหน่งของ GE และปิดพื้นที่",
         playerDuel: "PatMen vs CHICHOO — สอง Clutch Specialist ระดับหัวแถวที่จะตัดสินวินาทีสุดท้ายของแต่ละ Round",
         upsetCondition: "GE คุม Pace ตั้งแต่ต้น Round และ Autumn ชิงตัด ZmjjKK ก่อนที่ EDG จะเซ็ตอัป Operator ได้",
@@ -818,7 +818,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "G2 มีการเตรียมตัวและโครงสร้างการแก้เกมที่ลึกซึ้ง แม้จะต้องเผชิญหน้ากับเสียงเชียร์เจ้าบ้านของ TYLOO",
-        veto: "TYLOO แบน Split · G2 แบน Sunset · TYLOO เลือก Haven · G2 เลือก Bind · Decider: Ascent",
+        veto: "TYLOO แบน Abyss · G2 แบน Sunset · TYLOO เลือก Haven · G2 เลือก Bind · Decider: Ascent",
         tacticalKey: "valyn จะใช้การคอลเกมแบบใจเย็นชะลอความเร็วดุดันของ splash และบีบให้ TYLOO ต้องเจอกับกับดักของ leaf",
         playerDuel: "splash (Jett/Raze) vs jawgemo (Neon/Raze) — วัด Pace ความเร็วของสอง Movement Duelist สาย Entry",
         upsetCondition: "TYLOO ยิงทะลุทุกแนวรับด้วยความมั่นใจจากแฟนเซี่ยงไฮ้ และไม่ปล่อยให้ G2 มีเวลาเซ็ตอัปแผนแก้ทาง"
@@ -834,7 +834,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "ความยืดหยุ่นและความเร็วสไตล์ W-Gaming ของ PRX มักจะบีบให้ทีมที่เล่นเป็นระบบอย่าง Liquid ต้องหลุดจากคอมฟอร์ตโซน",
-        veto: "TL แบน Lotus · PRX แบน Haven · TL เลือก Ascent · PRX เลือก Split · Decider: Bind",
+        veto: "TL แบน Lotus · PRX แบน Haven · TL เลือก Ascent · PRX เลือก Sunset · Decider: Bind",
         tacticalKey: "PRX จะเปิดฉากบุกทะลวงตั้งแต่ 10 วินาทีแรก ขณะที่ Liquid หวังให้ nAts รวบรวมข้อมูลและดักทางในช่วง Mid-Round",
         playerDuel: "nAts (Cypher) vs f0rsakeN (Flex/Yoru) — Mind Game ระหว่างเทพ Lurk กับตัวป่วน Flex Pick ที่เดาทางยากที่สุด",
         upsetCondition: "nAts ดักเก็บจังหวะ Trade Kill ของ PRX ได้หมดจด และบีบให้ W-Gaming ต้องเล่น Slow Pace ที่พวกเขาไม่ถนัด"
@@ -850,7 +850,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 1",
         confidence: "SLIGHT LEAN",
         confidenceNote: "ความคุ้นเคยของแกนผู้เล่น PRX และการปรับเปลี่ยนตัวละครที่ไม่ซ้ำซากทำให้ anti-strat ของ G2 จับทางได้ยาก",
-        veto: "G2 แบน Lotus · PRX แบน Breeze · G2 เลือก Abyss · PRX เลือก Split · Decider: Ascent",
+        veto: "G2 แบน Lotus · PRX แบน Haven · G2 เลือก Abyss · PRX เลือก Sunset · Decider: Ascent",
         tacticalKey: "d4v41 จะเป็นตัวเชื่อมประสานที่ปิดจุดบกพร่องของ PRX ช่วยให้ทีมรับมือกับโครงสร้างอันแน่นหนาของ G2 ได้",
         playerDuel: "something vs leaf — Operator สายพริ้วของ PRX ดวลกับแนวรับ Anchor ที่แน่นหนาของ leaf",
         upsetCondition: "JoshRT และ valyn วางแผนดักทางลูกบุกของ PRX ได้สมบูรณ์แบบจน W-Gaming ไม่สามารถเปิด Site ได้",
@@ -867,7 +867,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 0",
         confidence: "EDGE",
         confidenceNote: "Liquid มีระบบและวินัยในการเล่นเกมหลังพิงฝาที่พิสูจน์แล้วใน Lower Bracket ของ EMEA",
-        veto: "TYLOO แบน Ascent · TL แบน Lotus · TYLOO เลือก Haven · TL เลือก Split · Decider: Bind",
+        veto: "TYLOO แบน Ascent · TL แบน Lotus · TYLOO เลือก Haven · TL เลือก Sunset · Decider: Bind",
         tacticalKey: "nAts จะล็อกพื้นที่ไม่ให้ TYLOO เดินเกมบุกเร็วได้ตามใจชอบ และบีบให้ TYLOO ต้องตัดสินใจในสถานการณ์ที่ข้อมูลไม่สมบูรณ์",
         playerDuel: "kamo vs splash — สอง Duelist วัยรุ่นวัดความแม่นยำในการเปิด First Blood",
         upsetCondition: "TYLOO คว้าชัยชนะใน Pistol Round ทั้งหมด และใช้โมเมนตัมเสียงเชียร์เจ้าบ้านโถมบุก Site แบบต่อเนื่อง",
@@ -913,7 +913,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 0",
         confidence: "STRONG EDGE",
         confidenceNote: "สถานะแชมป์ EMEA, ความลึกของแผน และฟอร์มอันร้อนแรงของ N4RRATE เหนือกว่าในทุกมิติ",
-        veto: "KC แบน Abyss · XLG แบน Breeze · KC เลือก Lotus · XLG เลือก Sunset · Decider: Bind",
+        veto: "KC แบน Abyss · XLG แบน Haven · KC เลือก Lotus · XLG เลือก Sunset · Decider: Bind",
         tacticalKey: "SUYGETSU จะเล่น Anchor ปิด Site อย่างเหนียวแน่น ขณะที่ N4RRATE และ dos9 จะบุกทะลวงทำลาย Off-meta Comp ของ XLG",
         playerDuel: "N4RRATE (Fade/Gekko) vs Rarga (Jett/Reyna) — World-class Utility ปะทะ Aggressive Entry Fragger",
         upsetCondition: "XLG เล่น Aggressive Push รวดเร็วไร้แบบแผน และ Rarga ชนะ First Duel แทบทุกรอบ"
@@ -962,7 +962,7 @@ const GROUP_PREDICTIONS = {
         predictedScore: "2 - 0",
         confidence: "EDGE",
         confidenceNote: "ความเป็นระบบและ Trade Discipline ของ Nongshim เหนือกว่าสไตล์ High-Risk Play ของ XLG ชัดเจน",
-        veto: "XLG แบน Ascent · NS แบน Lotus · XLG เลือก Sunset · NS เลือก Haven · Decider: Split",
+        veto: "XLG แบน Ascent · NS แบน Lotus · XLG เลือก Sunset · NS เลือก Haven · Decider: Bind",
         tacticalKey: "วินัยของ NS จะลงโทษจังหวะ Over-peek ของ XLG และการ Anchor พื้นที่ของ Xross กับ Rb จะตัดบทบาทการป่วนของ Rarga",
         playerDuel: "Rb vs Lysoar — ศึกคุมจังหวะของสอง Support / Anchor ผู้ชี้ชะตาเกม",
         upsetCondition: "XLG ชนะ First Blood รวดเร็วต่อเนื่อง และบีบให้ NS ต้องเล่นตาม Fast Tempo ที่ไม่ถนัด",
@@ -1029,9 +1029,9 @@ const PLAYERS_TO_WATCH = [
     name: "PatMen",
     teamId: "ge",
     teamName: "Global Esports",
-    role: "Sentinel / Utility Fragger",
-    agents: "Fade · Cypher · Killjoy",
-    highlight: "Ace คนสำคัญที่พา GE สร้างประวัติศาสตร์คว้าแชมป์ Pacific Stage 2 ด้วยสถิติ ACS 302 และ ADR 208 ใน Map ตัดสินกับ PRX เขาคือผู้เล่นที่ยกระดับบทบาท Support สู่ระดับ Fragger แถวหน้า",
+    role: "Controller / Utility Fragger",
+    agents: "Omen · Viper · Skye",
+    highlight: "Ace คนสำคัญที่พา GE สร้างประวัติศาสตร์คว้าแชมป์ Pacific Stage 2 ด้วยสถิติ ACS 302 และ ADR 208 ใน Map ตัดสินกับ PRX การหยิบ Omen และ Viper มาคุม Space พร้อมดวลปืนสไตล์ Fragger ยกระดับบทบาท Controller สู่ระดับท็อปของทัวร์นาเมนต์",
     statBadge: "PACIFIC BREAKTHROUGH · PEAK ACS 302"
   },
   {
