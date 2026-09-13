@@ -1,0 +1,42 @@
+# Dependencies & Packages
+node_modules/
+**/node_modules/
+package-lock.json
+
+# Logs & Debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+server.out.log
+server.err.log
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.settings/
+
+# Temporary files & Scratch
+*.tmp
+*.bak
+*.swp
+*~
+__pycache__/
+*.py[cod]
+*$py.class
+scratch/*.txt
+scratch/*.html
+scratch/mobile-qa.png
+

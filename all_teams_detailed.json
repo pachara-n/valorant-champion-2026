@@ -1,0 +1,2390 @@
+{
+  "100t": {
+    "name": "100 Thieves",
+    "url": "https://www.vlr.gg/team/120/100-thieves",
+    "roster": [
+      {
+        "alias": "vora",
+        "real": "Jordan Pulwer"
+      },
+      {
+        "alias": "Cryocells",
+        "real": "Matthew Panganiban"
+      },
+      {
+        "alias": "Asuna",
+        "real": "Peter Mazuryk"
+      },
+      {
+        "alias": "Timotino",
+        "real": "Timothée Lavigne Dupont"
+      },
+      {
+        "alias": "bang",
+        "real": "Sean Bezerra"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Nbs",
+        "real": "Laurynas Kisielius",
+        "role": "head coach"
+      },
+      {
+        "alias": "d00mbr0s",
+        "real": "Carl Erik Victor William Sandgren",
+        "role": "assistant coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "3",
+          ":",
+          "2",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2026/09/07",
+          "12:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "2",
+          ":",
+          "0",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2026/09/05",
+          "12:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "2",
+          ":",
+          "0",
+          "LEVIATÁN",
+          "LEV",
+          "#W1Z5",
+          "2026/08/29",
+          "7:20 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Group Stage ⋅",
+          "W4",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "2",
+          ":",
+          "0",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2026/08/10",
+          "5:55 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Group Stage ⋅",
+          "W4",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "0",
+          ":",
+          "2",
+          "Cloud9",
+          "C9",
+          "#V5F",
+          "2026/08/08",
+          "4:00 am",
+          "-"
+        ]
+      }
+    ]
+  },
+  "loud": {
+    "name": "LOUD",
+    "url": "https://www.vlr.gg/team/6961/loud",
+    "roster": [
+      {
+        "alias": "erde",
+        "real": "Roberto Lobos"
+      },
+      {
+        "alias": "lukxo",
+        "real": "Lucca Travaioli"
+      },
+      {
+        "alias": "DaviH",
+        "real": "David Cruz"
+      },
+      {
+        "alias": "Darker",
+        "real": "Sebastián Castro Cicuamia"
+      },
+      {
+        "alias": "tkzin",
+        "real": "Enzo Zimiani"
+      },
+      {
+        "alias": "loan",
+        "real": "cauanzin"
+      },
+      {
+        "alias": "Cauan Pereira",
+        "real": ""
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Wenty",
+        "real": "Carlos Lira Portela",
+        "role": "manager"
+      },
+      {
+        "alias": "Romanilly",
+        "real": "Gonzalo Manzano",
+        "role": "head coach"
+      },
+      {
+        "alias": "Bati",
+        "real": "Miguel Batista",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "bajerski",
+        "real": "Lucas Bajerski Pereira",
+        "role": "performance coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2",
+          ":",
+          "3",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "2026/09/07",
+          "12:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "3",
+          ":",
+          "2",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2026/09/06",
+          "1:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LR3",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2",
+          ":",
+          "0",
+          "G2 Esports",
+          "G2",
+          "#BN1",
+          "2026/09/05",
+          "2:05 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2",
+          ":",
+          "0",
+          "MIBR",
+          "MIBR",
+          "#W20V",
+          "2026/08/31",
+          "7:10 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "1",
+          ":",
+          "2",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2026/08/29",
+          "4:00 am",
+          "-"
+        ]
+      }
+    ]
+  },
+  "nrg": {
+    "name": "NRG",
+    "url": "https://www.vlr.gg/team/1034/nrg",
+    "roster": [
+      {
+        "alias": "Ethan",
+        "real": "Ethan Arnold"
+      },
+      {
+        "alias": "keiko",
+        "real": "Georgio Sanassy"
+      },
+      {
+        "alias": "brawk",
+        "real": "Brock Somerhalder"
+      },
+      {
+        "alias": "mada",
+        "real": "Adam Pampuch"
+      },
+      {
+        "alias": "skuba",
+        "real": "Logan Jenkins"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Ry",
+        "real": "Zachary Parr",
+        "role": "manager"
+      },
+      {
+        "alias": "bonkar",
+        "real": "Malkolm Rench",
+        "role": "head coach"
+      },
+      {
+        "alias": "mitch",
+        "real": "Mitch Semago",
+        "role": "assistant coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2",
+          ":",
+          "3",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2026/09/06",
+          "1:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "0",
+          ":",
+          "2",
+          "100 Thieves",
+          "100T",
+          "#XSN",
+          "2026/09/05",
+          "12:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2",
+          ":",
+          "1",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2026/08/29",
+          "4:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Group Stage ⋅",
+          "W4",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2",
+          ":",
+          "0",
+          "Evil Geniuses",
+          "EG",
+          "#Q20Q",
+          "2026/08/10",
+          "4:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Group Stage ⋅",
+          "W4",
+          "NRG",
+          "NRG",
+          "#Z5K",
+          "2",
+          ":",
+          "0",
+          "ENVY",
+          "ENVY",
+          "#V1LE",
+          "2026/08/07",
+          "6:15 am",
+          "-"
+        ]
+      }
+    ]
+  },
+  "g2": {
+    "name": "G2 Esports",
+    "url": "https://www.vlr.gg/team/11058/g2-esports",
+    "roster": [
+      {
+        "alias": "valyn",
+        "real": "Jacob Batio"
+      },
+      {
+        "alias": "jawgemo",
+        "real": "Alexander Mor"
+      },
+      {
+        "alias": "BABYBAY",
+        "real": "Andrej Francisty"
+      },
+      {
+        "alias": "trent",
+        "real": "Trent Cairns"
+      },
+      {
+        "alias": "leaf",
+        "real": "Nathan Orf"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Ambrose",
+        "real": "Ambrose Lai",
+        "role": "manager"
+      },
+      {
+        "alias": "JoshRT",
+        "real": "Josh Lee",
+        "role": "head coach"
+      },
+      {
+        "alias": "shhhack",
+        "real": "Peter Belej",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "Robert",
+        "real": "Robert Yip",
+        "role": "performance coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LR3",
+          "G2 Esports",
+          "G2",
+          "#BN1",
+          "0",
+          ":",
+          "2",
+          "LOUD",
+          "LOUD",
+          "#BOQ",
+          "2026/09/05",
+          "2:05 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "G2 Esports",
+          "G2",
+          "#BN1",
+          "2",
+          ":",
+          "1",
+          "LEVIATÁN",
+          "LEV",
+          "#W1Z5",
+          "2026/08/31",
+          "4:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Playoffs ⋅",
+          "LR1",
+          "G2 Esports",
+          "G2",
+          "#BN1",
+          "2",
+          ":",
+          "1",
+          "FURIA",
+          "FUR",
+          "#W1ZB",
+          "2026/08/30",
+          "4:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Play-Ins ⋅",
+          "LR3",
+          "G2 Esports",
+          "G2",
+          "#BN1",
+          "2",
+          ":",
+          "1",
+          "ENVY",
+          "ENVY",
+          "#V1LE",
+          "2026/08/24",
+          "4:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: AMER Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: AMER Stage 2",
+          "Play-Ins ⋅",
+          "LR2",
+          "G2 Esports",
+          "G2",
+          "#BN1",
+          "2",
+          ":",
+          "0",
+          "BESTIA",
+          "BST",
+          "#W212",
+          "2026/08/23",
+          "4:00 am",
+          "-"
+        ]
+      }
+    ]
+  },
+  "tyloo": {
+    "name": "TYLOO",
+    "url": "https://www.vlr.gg/team/731/tyloo",
+    "roster": [
+      {
+        "alias": "SiuFatBB",
+        "real": "Pong Gaa Hei (庞加曦)"
+      },
+      {
+        "alias": "splash",
+        "real": "Moses Christophe Jonathan"
+      },
+      {
+        "alias": "Scales",
+        "real": "Zhang Zhen (张震)"
+      },
+      {
+        "alias": "Erv",
+        "real": "Shen Zhiwei"
+      },
+      {
+        "alias": "slowly",
+        "real": "Kelun Sun (孙科伦)"
+      },
+      {
+        "alias": "xihe",
+        "real": "Peng Wenbo (彭文博)"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "fc4t",
+        "real": "Yang Jiawei (杨家玮)",
+        "role": "manager"
+      },
+      {
+        "alias": "hypnotizing",
+        "real": "Xie Haozhi (谢昊志)",
+        "role": "head coach"
+      },
+      {
+        "alias": "Billyo",
+        "real": "Li Xinyu (李新宇)",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "sword9",
+        "real": "Li Wei (李卫)",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "Ominous",
+        "real": "Sushant Jha",
+        "role": "analyst"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "3",
+          ":",
+          "1",
+          "JD Gaming",
+          "JDG",
+          "#T143",
+          "2026/08/23",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "3",
+          ":",
+          "0",
+          "Bilibili Gaming",
+          "BLG",
+          "#A15D",
+          "2026/08/22",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "LR3",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "2",
+          ":",
+          "0",
+          "Nova Esports",
+          "NOVA",
+          "#Z14G",
+          "2026/08/21",
+          "5:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "2",
+          ":",
+          "0",
+          "All Gamers",
+          "AG",
+          "#M20W",
+          "2026/08/20",
+          "3:00 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "jdg": {
+    "name": "JD Gaming",
+    "url": "https://www.vlr.gg/team/13576/jd-gaming",
+    "roster": [
+      {
+        "alias": "jkuro",
+        "real": "Yong Haochong (杨浩聪)"
+      },
+      {
+        "alias": "zhe",
+        "real": "Niu Zhe (牛哲)"
+      },
+      {
+        "alias": "Yuicaw",
+        "real": "Huang Yung-chieh (黃湧傑)"
+      },
+      {
+        "alias": "crownfisher",
+        "real": "Li Ao (李翱)"
+      },
+      {
+        "alias": "BerLIN",
+        "real": "Zhang Bolin (張柏霖)"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "JIANDAN",
+        "real": "Wang Sai (王赛)",
+        "role": "manager"
+      },
+      {
+        "alias": "bail",
+        "real": "Lee Sung-jae (이성재)",
+        "role": "head coach"
+      },
+      {
+        "alias": "Desire",
+        "real": "Peng Siji (彭思骥)",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "Phong",
+        "real": "Huang Chunfeng (黄春峰)",
+        "role": "Staff"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "JD Gaming",
+          "JDG",
+          "#T143",
+          "1",
+          ":",
+          "3",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "2026/08/23",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "JD Gaming",
+          "JDG",
+          "#T143",
+          "2",
+          ":",
+          "0",
+          "Bilibili Gaming",
+          "BLG",
+          "#A15D",
+          "2026/08/21",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "JD Gaming",
+          "JDG",
+          "#T143",
+          "2",
+          ":",
+          "1",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "2026/08/19",
+          "3:00 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "edg": {
+    "name": "EDward Gaming",
+    "url": "https://www.vlr.gg/team/1120/edward-gaming",
+    "roster": [
+      {
+        "alias": "nobody",
+        "real": "Wang Senxu (王森旭)"
+      },
+      {
+        "alias": "ZmjjKK",
+        "real": "Zheng Yongkang (郑永康)"
+      },
+      {
+        "alias": "CHICHOO",
+        "real": "Wan Shunzhi (万顺治)"
+      },
+      {
+        "alias": "Smoggy",
+        "real": "Zhang Zhao (张钊)"
+      },
+      {
+        "alias": "Jieni7",
+        "real": "Zhang Juntai (张君泰)"
+      },
+      {
+        "alias": "stew",
+        "real": "Park Young-chan (박영찬)"
+      },
+      {
+        "alias": "zjc",
+        "real": "Zhang Juncheng (张峻程)"
+      },
+      {
+        "alias": "Sub",
+        "real": ""
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Hibari",
+        "real": "Jin Xingyu (金星宇)",
+        "role": "manager"
+      },
+      {
+        "alias": "Autumn",
+        "real": "Yoon Eu-teum (윤으뜸)",
+        "role": "head coach"
+      },
+      {
+        "alias": "Indigo",
+        "real": "Seol Do-hoon (설도훈)",
+        "role": "coach"
+      },
+      {
+        "alias": "signed",
+        "real": "Dale Tang",
+        "role": "coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Play-Ins ⋅",
+          "LR3",
+          "EDward Gaming",
+          "EDG",
+          "#YAJ",
+          "0",
+          ":",
+          "2",
+          "JD Gaming",
+          "JDG",
+          "#T143",
+          "2026/08/11",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Play-Ins ⋅",
+          "LR2",
+          "EDward Gaming",
+          "EDG",
+          "#YAJ",
+          "2",
+          ":",
+          "1",
+          "Wolves Esports",
+          "WOL",
+          "#Z1YH",
+          "2026/08/09",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Play-Ins ⋅",
+          "UBQF",
+          "EDward Gaming",
+          "EDG",
+          "#YAJ",
+          "1",
+          ":",
+          "2",
+          "Titan Esports Club",
+          "TEC",
+          "#T1BM",
+          "2026/08/07",
+          "6:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Group Stage ⋅",
+          "Seeding",
+          "EDward Gaming",
+          "EDG",
+          "#YAJ",
+          "2",
+          ":",
+          "0",
+          "All Gamers",
+          "AG",
+          "#M20W",
+          "2026/07/24",
+          "6:35 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "xlg": {
+    "name": "Xi Lai Gaming",
+    "url": "https://www.vlr.gg/team/13581/xi-lai-gaming",
+    "roster": [
+      {
+        "alias": "WsLeo",
+        "real": "Huang Pinwei (黄品维)"
+      },
+      {
+        "alias": "Sharks",
+        "real": "Qiu Ge (邱戈)"
+      },
+      {
+        "alias": "Lysoar",
+        "real": "Liang Youhao (梁优好)"
+      },
+      {
+        "alias": "NoMan",
+        "real": "James Man"
+      },
+      {
+        "alias": "Rarga",
+        "real": "Arthur Churyumov"
+      },
+      {
+        "alias": "happywei",
+        "real": "Deng Minwei (邓闵维)"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Arty",
+        "real": "Yang Zhe (杨喆)",
+        "role": "manager"
+      },
+      {
+        "alias": "hvoya",
+        "real": "Aleksandr Eremin",
+        "role": "head coach"
+      },
+      {
+        "alias": "steady",
+        "real": "Dmitry Prutkov",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "Coffin0",
+        "real": "Tao Yumeng (陶禹萌)",
+        "role": "Staff"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "Xi Lai Gaming",
+          "XLG",
+          "#Q1IN",
+          "1",
+          ":",
+          "2",
+          "Nova Esports",
+          "NOVA",
+          "#Z14G",
+          "2026/08/20",
+          "5:35 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "Xi Lai Gaming",
+          "XLG",
+          "#Q1IN",
+          "1",
+          ":",
+          "2",
+          "Bilibili Gaming",
+          "BLG",
+          "#A15D",
+          "2026/08/19",
+          "6:45 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Playoffs ⋅",
+          "UBQF",
+          "Xi Lai Gaming",
+          "XLG",
+          "#Q1IN",
+          "2",
+          ":",
+          "1",
+          "All Gamers",
+          "AG",
+          "#M20W",
+          "2026/08/15",
+          "6:30 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: CN Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: CN Stage 2",
+          "Group Stage ⋅",
+          "Seeding",
+          "Xi Lai Gaming",
+          "XLG",
+          "#Q1IN",
+          "2",
+          ":",
+          "0",
+          "TYLOO",
+          "TYL",
+          "#W17J",
+          "2026/07/25",
+          "7:35 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "kc": {
+    "name": "Karmine Corp",
+    "url": "https://www.vlr.gg/team/8877/karmine-corp",
+    "roster": [
+      {
+        "alias": "Avez",
+        "real": "Hazem Khaled"
+      },
+      {
+        "alias": "dos9",
+        "real": "Zhumagali Dastan"
+      },
+      {
+        "alias": "LewN",
+        "real": "Burak Alkan"
+      },
+      {
+        "alias": "SUYGETSU",
+        "real": "Dmitry Ilyushin"
+      },
+      {
+        "alias": "N4RRATE",
+        "real": "Marshall Massey"
+      },
+      {
+        "alias": "Chaza",
+        "real": "Charlie Phillips"
+      },
+      {
+        "alias": "Sub",
+        "real": "sheydos"
+      },
+      {
+        "alias": "Bogdan Naumov",
+        "real": "Inactive"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "ZE1SH",
+        "real": "Ahmed El Sheikh",
+        "role": "head coach"
+      },
+      {
+        "alias": "simoz",
+        "real": "Simone Giovannini",
+        "role": "assistant coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "3",
+          ":",
+          "1",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2026/08/30",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "2",
+          ":",
+          "0",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "2026/08/28",
+          "9:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "2",
+          ":",
+          "1",
+          "Enterprise Esports",
+          "EP",
+          "#A21A",
+          "2026/08/21",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Group Stage ⋅",
+          "W3",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "2",
+          ":",
+          "1",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2026/08/02",
+          "1:10 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Group Stage ⋅",
+          "W2",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "2",
+          ":",
+          "0",
+          "Team Heretics",
+          "TH",
+          "#Y1AR",
+          "2026/07/27",
+          "1:10 am",
+          "-"
+        ]
+      }
+    ]
+  },
+  "tl": {
+    "name": "Team Liquid",
+    "url": "https://www.vlr.gg/team/474/team-liquid",
+    "roster": [
+      {
+        "alias": "nAts",
+        "real": "Ayaz Akhmetshin"
+      },
+      {
+        "alias": "GSR",
+        "real": "Ognjen Bondžić"
+      },
+      {
+        "alias": "kamo",
+        "real": "Kamil Frąckowiak"
+      },
+      {
+        "alias": "trexx",
+        "real": "Nikita Cherednichenko"
+      },
+      {
+        "alias": "Kicks",
+        "real": "Kimmie Laasner"
+      },
+      {
+        "alias": "purp0",
+        "real": "Semyon Borchev"
+      },
+      {
+        "alias": "Sub",
+        "real": "wayne"
+      },
+      {
+        "alias": "Wayne Chang",
+        "real": "Inactive"
+      },
+      {
+        "alias": "MiniBoo",
+        "real": "Dominykas Lukaševičius"
+      }
+    ],
+    "staff": [],
+    "recent_matches": [
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "1",
+          ":",
+          "3",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "2026/08/30",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "3",
+          ":",
+          "0",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "2026/08/29",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "LR3",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2",
+          ":",
+          "0",
+          "Fire Flux Esports",
+          "FF",
+          "#W1NI",
+          "2026/08/28",
+          "11:30 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2",
+          ":",
+          "0",
+          "Enterprise Esports",
+          "EP",
+          "#A21A",
+          "2026/08/23",
+          "9:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "LR1",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2",
+          ":",
+          "1",
+          "Eintracht Frankfurt",
+          "SGE",
+          "#T1ZO",
+          "2026/08/22",
+          "9:00 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "fut": {
+    "name": "FUT Esports",
+    "url": "https://www.vlr.gg/team/1184/fut-esports",
+    "roster": [
+      {
+        "alias": "sociablEE",
+        "real": "Volkan Yonal"
+      },
+      {
+        "alias": "s0pp",
+        "real": "Efe Tur"
+      },
+      {
+        "alias": "xeus",
+        "real": "Doğan Gözgen"
+      },
+      {
+        "alias": "yetujey",
+        "real": "Eray Budak"
+      },
+      {
+        "alias": "KROSTALY",
+        "real": "Okan Alaçam"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Mighty",
+        "real": "Berkalp Kaan Yılmazoğlu",
+        "role": "manager"
+      },
+      {
+        "alias": "Vlad",
+        "real": "Berke Kantürk",
+        "role": "head coach"
+      },
+      {
+        "alias": "Bambino",
+        "real": "Tyler Jay",
+        "role": "assistant coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "0",
+          ":",
+          "3",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2026/08/29",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "0",
+          ":",
+          "2",
+          "Karmine Corp",
+          "KC",
+          "#X1ZA",
+          "2026/08/28",
+          "9:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "2",
+          ":",
+          "1",
+          "BBL Esports",
+          "BBL",
+          "#Y1H3",
+          "2026/08/22",
+          "1:15 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "UR1",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "2",
+          ":",
+          "0",
+          "Team Liquid",
+          "TL",
+          "#A20X",
+          "2026/08/21",
+          "1:00 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Play-Ins ⋅",
+          "UBSF",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "2",
+          ":",
+          "0",
+          "Eternal Fire",
+          "EF",
+          "#V1MM",
+          "2026/08/16",
+          "12:30 am",
+          "-"
+        ]
+      }
+    ]
+  },
+  "vit": {
+    "name": "Team Vitality",
+    "url": "https://www.vlr.gg/team/2059/team-vitality",
+    "roster": [
+      {
+        "alias": "Jamppi",
+        "real": "Elias Olkkonen"
+      },
+      {
+        "alias": "PROFEK",
+        "real": "Dawid Święć"
+      },
+      {
+        "alias": "Derke",
+        "real": "Nikita Niko Sirmitev"
+      },
+      {
+        "alias": "Chronicle",
+        "real": "Timofey Khromov"
+      },
+      {
+        "alias": "Sayonara",
+        "real": "Ștefan Mîtcu"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Bangovic",
+        "real": "Andy Zajimovic",
+        "role": "manager"
+      },
+      {
+        "alias": "PAL",
+        "real": "Gregor Morton",
+        "role": "coach"
+      },
+      {
+        "alias": "Scuttt",
+        "real": "Benjamin Hutchinson",
+        "role": "coach"
+      },
+      {
+        "alias": "slk",
+        "real": "Aleksey Lynksov",
+        "role": "analyst"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "LR1",
+          "Team Vitality",
+          "VIT",
+          "#Y1ZA",
+          "1",
+          ":",
+          "2",
+          "Fire Flux Esports",
+          "FF",
+          "#W1NI",
+          "2026/08/22",
+          "11:30 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Playoffs ⋅",
+          "UR1",
+          "Team Vitality",
+          "VIT",
+          "#Y1ZA",
+          "1",
+          ":",
+          "2",
+          "Enterprise Esports",
+          "EP",
+          "#A21A",
+          "2026/08/20",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Group Stage ⋅",
+          "W3",
+          "Team Vitality",
+          "VIT",
+          "#Y1ZA",
+          "2",
+          ":",
+          "1",
+          "FUT Esports",
+          "FUT",
+          "#Z5N",
+          "2026/08/01",
+          "10:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Group Stage ⋅",
+          "W3",
+          "Team Vitality",
+          "VIT",
+          "#Y1ZA",
+          "2",
+          ":",
+          "1",
+          "Gentle Mates",
+          "M8",
+          "#W1YW",
+          "2026/07/30",
+          "12:15 am",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: EMEA Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: EMEA Stage 2",
+          "Group Stage ⋅",
+          "W2",
+          "Team Vitality",
+          "VIT",
+          "#Y1ZA",
+          "2",
+          ":",
+          "0",
+          "PCIFIC Esports",
+          "PCF",
+          "#B20W",
+          "2026/07/25",
+          "10:00 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "ge": {
+    "name": "Global Esports",
+    "url": "https://www.vlr.gg/team/918/global-esports",
+    "roster": [
+      {
+        "alias": "xavi8k",
+        "real": "Xavier Juan"
+      },
+      {
+        "alias": "PatMen",
+        "real": "Patrick Mendoza"
+      },
+      {
+        "alias": "UdoTan",
+        "real": "Go Kyung-won (고경원)"
+      },
+      {
+        "alias": "Kr1stal",
+        "real": "Savva Fedorov"
+      },
+      {
+        "alias": "Autumn",
+        "real": "Kale Dunne"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Vatsal",
+        "real": "Vatsal Uniyal",
+        "role": "manager"
+      },
+      {
+        "alias": "Platoon",
+        "real": "Daniel Zhou",
+        "role": "head coach"
+      },
+      {
+        "alias": "Aimix Strange",
+        "real": "Derren dela Cruz",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "Fields",
+        "real": "Sam Greenfield",
+        "role": "analyst"
+      },
+      {
+        "alias": "taeri",
+        "real": "Hose Son (손호세)",
+        "role": "Staff"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "3",
+          ":",
+          "2",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2026/09/06",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "3",
+          ":",
+          "1",
+          "T1",
+          "T1",
+          "#M1KS",
+          "2026/09/05",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "1",
+          ":",
+          "2",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2026/09/04",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "2",
+          ":",
+          "0",
+          "VARREL",
+          "VL",
+          "#X1L7",
+          "2026/08/27",
+          "6:10 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UR1",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "2",
+          ":",
+          "1",
+          "KIWOOM DRX",
+          "KRX",
+          "#M1L1",
+          "2026/08/26",
+          "5:15 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "ns": {
+    "name": "Nongshim RedForce",
+    "url": "https://www.vlr.gg/team/11060/nongshim-redforce",
+    "roster": [
+      {
+        "alias": "Rb",
+        "real": "Goo Sang-min (구상민)"
+      },
+      {
+        "alias": "WoohyuN",
+        "real": "Moon Woo-hyun (문우현)"
+      },
+      {
+        "alias": "Xross",
+        "real": "Jeonghwan (정환)"
+      },
+      {
+        "alias": "Francis",
+        "real": "Kim Mu-bin (김무빈)"
+      },
+      {
+        "alias": "Dambi",
+        "real": "Lee Hyuk-kyu (이혁규)"
+      },
+      {
+        "alias": "Ivy",
+        "real": "Park Sung-hyeon (박성현)"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "SilKanoN",
+        "real": "Kim Gyeong-min (김경민)",
+        "role": "head coach"
+      },
+      {
+        "alias": "yoman",
+        "real": "Chae Young-moon (채영문)",
+        "role": "coach"
+      },
+      {
+        "alias": "Sungmin",
+        "real": "So Seong-min (소성민)",
+        "role": "coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "GF",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2",
+          ":",
+          "3",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "2026/09/06",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UBF",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2",
+          ":",
+          "1",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "2026/09/04",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UBSF",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2",
+          ":",
+          "1",
+          "Gen.G",
+          "GEN",
+          "#Q1CQ",
+          "2026/08/27",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UR1",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2",
+          ":",
+          "0",
+          "Paper Rex",
+          "PRX",
+          "#ACM",
+          "2026/08/26",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Play-Ins ⋅",
+          "UBSF",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2",
+          ":",
+          "0",
+          "T1",
+          "T1",
+          "#M1KS",
+          "2026/08/21",
+          "6:25 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "prx": {
+    "name": "Paper Rex",
+    "url": "https://www.vlr.gg/team/624/paper-rex",
+    "roster": [
+      {
+        "alias": "invy",
+        "real": "Adrian Jiggs Reyes"
+      },
+      {
+        "alias": "Jinggg",
+        "real": "Wang Jing Jie"
+      },
+      {
+        "alias": "f0rsakeN",
+        "real": "Jason Susanto"
+      },
+      {
+        "alias": "d4v41",
+        "real": "Khalish Rusyaidee"
+      },
+      {
+        "alias": "something",
+        "real": "Ilya Petrov"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Tommy",
+        "real": "Kumaresan Ramani",
+        "role": "manager"
+      },
+      {
+        "alias": "alecks",
+        "real": "Alexandre Sallé",
+        "role": "coach"
+      },
+      {
+        "alias": "Wendler",
+        "real": "Ashton Wendler",
+        "role": "assistant coach"
+      },
+      {
+        "alias": "Panda",
+        "real": "Laijhun Cheng",
+        "role": "performance coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "Paper Rex",
+          "PRX",
+          "#ACM",
+          "1",
+          ":",
+          "2",
+          "VARREL",
+          "VL",
+          "#X1L7",
+          "2026/08/29",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LR1",
+          "Paper Rex",
+          "PRX",
+          "#ACM",
+          "2",
+          ":",
+          "0",
+          "ONSIDE GAMING",
+          "ONG",
+          "#Q1ZH",
+          "2026/08/28",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "UR1",
+          "Paper Rex",
+          "PRX",
+          "#ACM",
+          "0",
+          ":",
+          "2",
+          "Nongshim RedForce",
+          "NS",
+          "#AZ6",
+          "2026/08/26",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Group Stage ⋅",
+          "W4",
+          "Paper Rex",
+          "PRX",
+          "#ACM",
+          "0",
+          ":",
+          "2",
+          "VARREL",
+          "VL",
+          "#X1L7",
+          "2026/08/09",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Group Stage ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Group Stage ⋅",
+          "W3",
+          "Paper Rex",
+          "PRX",
+          "#ACM",
+          "2",
+          ":",
+          "0",
+          "Team Secret",
+          "TS",
+          "#W1XW",
+          "2026/07/31",
+          "3:00 pm",
+          "-"
+        ]
+      }
+    ]
+  },
+  "t1": {
+    "name": "T1",
+    "url": "https://www.vlr.gg/team/14/t1",
+    "roster": [
+      {
+        "alias": "Munchkin",
+        "real": "Byeon Sang-beom (변상범)"
+      },
+      {
+        "alias": "stax",
+        "real": "Kim Gu-taek (김구택)"
+      },
+      {
+        "alias": "Meteor",
+        "real": "Kim Tae-oh (김태오)"
+      },
+      {
+        "alias": "BuZz",
+        "real": "Yu Byeong-cheol (유병철)"
+      },
+      {
+        "alias": "DH",
+        "real": "Kang Dong-ho (강동호)"
+      },
+      {
+        "alias": "iZu",
+        "real": "Ham Woo-ju (함우주)"
+      }
+    ],
+    "staff": [
+      {
+        "alias": "Norman",
+        "real": "Shin Jun-ho",
+        "role": "manager"
+      },
+      {
+        "alias": "KDG",
+        "real": "Kim Dong-gun (김동건)",
+        "role": "head coach"
+      },
+      {
+        "alias": "CheongGak",
+        "real": "Lee Il-ho (이일호)",
+        "role": "coach"
+      }
+    ],
+    "recent_matches": [
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LBF",
+          "T1",
+          "T1",
+          "#M1KS",
+          "1",
+          ":",
+          "3",
+          "Global Esports",
+          "GE",
+          "#M1LU",
+          "2026/09/05",
+          "3:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LR3",
+          "T1",
+          "T1",
+          "#M1KS",
+          "2",
+          ":",
+          "0",
+          "VARREL",
+          "VL",
+          "#X1L7",
+          "2026/09/04",
+          "6:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LR2",
+          "T1",
+          "T1",
+          "#M1KS",
+          "2",
+          ":",
+          "0",
+          "Gen.G",
+          "GEN",
+          "#Q1CQ",
+          "2026/08/29",
+          "6:00 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Playoffs ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Playoffs ⋅",
+          "LR1",
+          "T1",
+          "T1",
+          "#M1KS",
+          "2",
+          ":",
+          "0",
+          "KIWOOM DRX",
+          "KRX",
+          "#M1L1",
+          "2026/08/28",
+          "5:05 pm",
+          "-"
+        ]
+      },
+      {
+        "event": "VCT 26: PAC Stage 2",
+        "stage": "Play-Ins ⋅",
+        "raw": [
+          "VCT 26: PAC Stage 2",
+          "Play-Ins ⋅",
+          "LR3",
+          "T1",
+          "T1",
+          "#M1KS",
+          "2",
+          ":",
+          "0",
+          "DetonatioN FocusMe",
+          "DFM",
+          "#B1KS",
+          "2026/08/23",
+          "6:00 pm",
+          "-"
+        ]
+      }
+    ]
+  }
+}

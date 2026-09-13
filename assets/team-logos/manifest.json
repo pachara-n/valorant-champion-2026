@@ -1,0 +1,184 @@
+{
+  "retrieved": "2026-09-13",
+  "sourcePage": "https://valorantesports.com/en-US/tournament/115576361459045501/overview",
+  "method": "Original PNG URL decoded from the named team image on Riot official Champions Shanghai overview; HTTPS original downloaded without modification.",
+  "rights": "Team trademarks and artwork remain with their respective owners. Public availability is not an open-license grant. Included for team identification in this independent editorial guide; no affiliation or endorsement is implied.",
+  "logos": [
+    {
+      "id": "100t",
+      "team": "100 Thieves",
+      "path": "assets/team-logos/100t.png",
+      "alt": "โลโก้ 100 Thieves",
+      "source": "https://static.lolesports.com/teams/1644966311613_100TVAL.png",
+      "width": 500,
+      "height": 500,
+      "bytes": 35744,
+      "sha256": "9ee475d36890c4919f189bbebccb6a017e3877c1197fd8ac52dddc426237c11c"
+    },
+    {
+      "id": "edg",
+      "team": "EDward Gaming",
+      "path": "assets/team-logos/edg.png",
+      "alt": "โลโก้ EDward Gaming",
+      "source": "https://static.lolesports.com/teams/1735920597800_edg1.png",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 60109,
+      "sha256": "a3cb49198e5d9ddca80c3f89db0aa04a991a42f97d5183efc1c1b900ab3096ac"
+    },
+    {
+      "id": "fut",
+      "team": "FUT Esports",
+      "path": "assets/team-logos/fut.png",
+      "alt": "โลโก้ FUT Esports",
+      "source": "https://static.lolesports.com/teams/1644342678681_FUT_VRL_DARK.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 36957,
+      "sha256": "804f50d25a35d869874f8fd84a786337e505cd3c3ebecc70e425283f2b18ba99"
+    },
+    {
+      "id": "g2",
+      "team": "G2 Esports",
+      "path": "assets/team-logos/g2.png",
+      "alt": "โลโก้ G2 Esports",
+      "source": "https://static.lolesports.com/teams/1675329807714_G2-Esports-Logo1.png",
+      "width": 1986,
+      "height": 1986,
+      "bytes": 172049,
+      "sha256": "caf75631bdd2e7cecc8eb451b2009368c9dd24318e1a20b083b73f808a975660"
+    },
+    {
+      "id": "ge",
+      "team": "Global Esports",
+      "path": "assets/team-logos/ge.png",
+      "alt": "โลโก้ Global Esports",
+      "source": "https://static.lolesports.com/teams/1677137854820_GERedandBlue-WhiteBG.png",
+      "width": 2000,
+      "height": 2000,
+      "bytes": 103413,
+      "sha256": "a24d4d390a8f5b3db0cc2770bac3213ab93e0d5152983b7ae626eaec50f66109"
+    },
+    {
+      "id": "jdg",
+      "team": "JD Gaming",
+      "path": "assets/team-logos/jdg.png",
+      "alt": "โลโก้ JD Gaming",
+      "source": "https://static.lolesports.com/teams/1707126862498_JDG.png",
+      "width": 2501,
+      "height": 2501,
+      "bytes": 48257,
+      "sha256": "4a4449d976bee5e14aa4dae50b21b07cc7d1f3c44532aada6172dd48fd7492a9"
+    },
+    {
+      "id": "kc",
+      "team": "Karmine Corp",
+      "path": "assets/team-logos/kc.png",
+      "alt": "โลโก้ Karmine Corp",
+      "source": "https://static.lolesports.com/teams/1651626649157_download1.png",
+      "width": 200,
+      "height": 200,
+      "bytes": 8414,
+      "sha256": "563ec2dd661b4fa44a3b86570225ded3cac485c6228fdb9c9cbb580ebd8b4a05"
+    },
+    {
+      "id": "loud",
+      "team": "LOUD",
+      "path": "assets/team-logos/loud.png",
+      "alt": "โลโก้ LOUD",
+      "source": "https://static.lolesports.com/teams/1644060140569_LOUDGreen.png",
+      "width": 1081,
+      "height": 1081,
+      "bytes": 14159,
+      "sha256": "6ef30a53dc439b5c3f7517fcd31ef2b1978dd09a384a8d9caa63aac86e41ae31"
+    },
+    {
+      "id": "nrg",
+      "team": "NRG",
+      "path": "assets/team-logos/nrg.png",
+      "alt": "โลโก้ NRG",
+      "source": "https://static.lolesports.com/teams/1731490666442_NRGWHT.png",
+      "width": 2800,
+      "height": 2800,
+      "bytes": 23373,
+      "sha256": "f1d1554464e2217688988a57b05e2ac4a20a9cb5d5371c338defaf71b3a04673"
+    },
+    {
+      "id": "ns",
+      "team": "Nongshim RedForce",
+      "path": "assets/team-logos/ns.png",
+      "alt": "โลโก้ Nongshim RedForce",
+      "source": "https://static.lolesports.com/teams/1674219422693_NS_.png",
+      "width": 700,
+      "height": 700,
+      "bytes": 34102,
+      "sha256": "81f40f103a464cda318fac18af9652590dc25746826d0282d7af17509ce75403"
+    },
+    {
+      "id": "prx",
+      "team": "Paper Rex",
+      "path": "assets/team-logos/prx.png",
+      "alt": "โลโก้ Paper Rex",
+      "source": "https://static.lolesports.com/teams/1630018120582_paper-rex-2021.png",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 26066,
+      "sha256": "7e9eac52f1a7e254faea4cad187b5a8879c9fc989483a7d3867bbcc1efb1a618"
+    },
+    {
+      "id": "t1",
+      "team": "T1",
+      "path": "assets/team-logos/t1.png",
+      "alt": "โลโก้ T1",
+      "source": "https://static.lolesports.com/teams/1677137430839_T1_infoboximage1.png",
+      "width": 2300,
+      "height": 2300,
+      "bytes": 61440,
+      "sha256": "74783bd9204dcc03a6c23fcb1d000ebc1541cfbdb458016e41814b319a4298fb"
+    },
+    {
+      "id": "tl",
+      "team": "Team Liquid",
+      "path": "assets/team-logos/tl.png",
+      "alt": "โลโก้ Team Liquid",
+      "source": "https://static.lolesports.com/teams/1637252586938_teamliquid.png",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 150881,
+      "sha256": "6180a93e0b498dcc7a760a602024f5616cec222949c5644792b80b942292ef59"
+    },
+    {
+      "id": "tyloo",
+      "team": "TYLOO",
+      "path": "assets/team-logos/tyloo.png",
+      "alt": "โลโก้ TYLOO",
+      "source": "https://static.lolesports.com/teams/1776403069581_TYLLOGO.png",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 154184,
+      "sha256": "7fc30f246a93ab15383d415edc319fc32f6666ce11c1edbafd0797759b6a0619"
+    },
+    {
+      "id": "vit",
+      "team": "Team Vitality",
+      "path": "assets/team-logos/vit.png",
+      "alt": "โลโก้ Team Vitality",
+      "source": "https://static.lolesports.com/teams/1722030793680_VITALITY_YELLOW.png",
+      "width": 1000,
+      "height": 1000,
+      "bytes": 30053,
+      "sha256": "4357c64f41a2e42246f318c6d362e36b7173be04ba4db31d4bff943d9b53e961"
+    },
+    {
+      "id": "xlg",
+      "team": "Xi Lai Gaming",
+      "path": "assets/team-logos/xlg.png",
+      "alt": "โลโก้ Xi Lai Gaming",
+      "source": "https://static.lolesports.com/teams/1735920774181_XLGA.PNG",
+      "width": 2350,
+      "height": 2350,
+      "bytes": 752219,
+      "sha256": "4b1cf2e65ff961d75d3f88306f085ca65095affacc283c683cf12ecb3692e3cd"
+    }
+  ]
+}
