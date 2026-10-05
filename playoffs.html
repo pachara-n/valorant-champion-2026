@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="บทวิเคราะห์และผังทำนายผลรอบ Playoff สู่ตำแหน่งแชมป์โลก VALORANT Champions Shanghai 2026">
+  <meta property="og:title" content="PLAYOFFS BRACKET PREDICTIONS · VALORANT Champions Shanghai 2026">
+  <meta property="og:description" content="วิเคราะห์เส้นทาง 8 ทีมสุดท้ายรอบเพลย์ออฟ Double Elimination จนถึงแชมป์โลก ณ นครเซี่ยงไฮ้">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#ff4655">
+  <title>PLAYOFFS BRACKET · VALORANT Champions Shanghai 2026</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%23ff4655'/%3E%3Cpath d='M14 16l16 32h8L50 16 36 33 28 16z' fill='%23070b10'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,400;0,500;0,600;0,700;1,600&family=IBM+Plex+Mono:wght@400;500;600;700&family=Noto+Sans+Thai:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=2.0.2">
+  <link rel="stylesheet" href="playoffs.css?v=2.0.2">
+</head>
+<body>
+  <a class="skip-link" href="#bracket">ข้ามไปยังผังสายแข่ง</a>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="wordmark" href="playoffs.html" aria-label="Champions 2026 Playoffs">
+      <span class="wordmark-tag">VCT</span> / <strong>CHAMPIONS 26 · PLAYOFFS</strong>
+    </a>
+    <nav aria-label="เมนูหลัก">
+      <a href="index.html" style="color: var(--cyan); font-weight: 600;">← GROUP STAGE GUIDE</a>
+      <a href="#bracket">PLAYOFF BRACKET</a>
+      <a href="#champion">CHAMPION PREDICTION</a>
+      <a href="#placements">FINAL PLACEMENTS</a>
+    </nav>
+    <div class="header-stamp-wrap">
+      <span class="live-stamp" aria-label="ช่วงการแข่งขันเพลย์ออฟ">PLAYOFFS · OCT 7 - 18, 2026</span>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="playoff-hero">
+      <div class="playoff-hero-top">
+        <div class="playoff-title-wrap">
+          <p class="kicker">VALORANT WORLD CHAMPIONSHIP 2026 · SHANGHAI PLAYOFFS</p>
+          <h1>ROAD TO THE <span>TROPHY</span></h1>
+          <p class="playoff-subtitle">
+            ผังทำนายผลการแข่งขันรอบ 8 ทีมสุดท้ายแบบ Double Elimination สู่ตำแหน่งแชมป์โลก ณ Mercedes-Benz Arena เซี่ยงไฮ้ — เจาะลึกบทวิเคราะห์ Veto, สกอร์คาดการณ์ และ Tactical Keys ครบทุกคู่คลิกที่การ์ดแมตช์เพื่อดู Dossier ฉบับเต็ม
+          </p>
+        </div>
+      </div>
+
+      <div class="champion-spotlight-card" id="champion">
+        <div class="champion-info">
+          <img class="champion-logo-img" src="assets/team-logos/prx.png" alt="Paper Rex Champion Logo">
+          <div>
+            <span class="champion-trophy-tag">PROJECTED WORLD CHAMPION 2026</span>
+            <h2 class="champion-team-name">PAPER REX (PACIFIC)</h2>
+            <p class="champion-desc">
+              สถาปนาประวัติศาสตร์แชมป์โลกครั้งแรกของภูมิภาค Pacific ด้วยการเอาชนะ Team Vitality ในรอบ Grand Final Bo5 สกอร์ 3-2 ด้วยจังหวะ 1v2 Post-Plant Clutch อันเยือกเย็นของ d4v41 ในแมพตัดสิน Bind
+            </p>
+          </div>
+        </div>
+        <div style="text-align: right; font-family: var(--mono);">
+          <div style="color: var(--gold); font-size: 20px; font-weight: 700;">$1,000,000 USD</div>
+          <div style="color: var(--muted); font-size: 11px;">FIRST PLACE PRIZE</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="bracket-section" id="bracket">
+      <div class="bracket-controls">
+        <div class="bracket-tabs">
+          <button class="bracket-tab-btn active" data-filter="all" type="button">ALL BRACKETS</button>
+          <button class="bracket-tab-btn" data-filter="upper" type="button">UPPER BRACKET</button>
+          <button class="bracket-tab-btn" data-filter="lower" type="button">LOWER BRACKET</button>
+        </div>
+        <div style="font-family: var(--mono); font-size: 11px; color: var(--muted);">
+          DOUBLE ELIMINATION · ALL MATCHES BO3 · LOWER & GRAND FINAL BO5
+        </div>
+      </div>
+
+      <div class="bracket-scroll-wrapper">
+        <!-- Upper Bracket -->
+        <div id="upper-tree-section">
+          <div class="bracket-tree-title">UPPER BRACKET</div>
+          <div class="bracket-columns-grid">
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Upper Quarterfinals</h3>
+                <span class="round-meta">4 MATCHES · BEST OF 3</span>
+              </div>
+              <div class="match-list" id="col-uqf"></div>
+            </div>
+
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Upper Semifinals</h3>
+                <span class="round-meta">2 MATCHES · BEST OF 3</span>
+              </div>
+              <div class="match-list spaced-center" id="col-usf"></div>
+            </div>
+
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Upper Final</h3>
+                <span class="round-meta">GRAND FINAL QUALIFIER · BO3</span>
+              </div>
+              <div class="match-list spaced-final" id="col-uf"></div>
+            </div>
+
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title" style="color: var(--gold);">Grand Final</h3>
+                <span class="round-meta" style="color: var(--gold);">WORLD CHAMPIONSHIP · BEST OF 5</span>
+              </div>
+              <div class="match-list spaced-final" id="col-gf"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Lower Bracket -->
+        <div id="lower-tree-section">
+          <div class="bracket-tree-title">LOWER BRACKET</div>
+          <div class="bracket-columns-grid">
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Lower Round 1</h3>
+                <span class="round-meta">2 ELIMINATION MATCHES · BO3</span>
+              </div>
+              <div class="match-list" id="col-lr1"></div>
+            </div>
+
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Lower Round 2</h3>
+                <span class="round-meta">2 ELIMINATION MATCHES · BO3</span>
+              </div>
+              <div class="match-list" id="col-lr2"></div>
+            </div>
+
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Lower Round 3</h3>
+                <span class="round-meta">LOWER SEMIFINAL · BO3</span>
+              </div>
+              <div class="match-list spaced-final" id="col-lr3"></div>
+            </div>
+
+            <div class="bracket-column">
+              <div class="round-header">
+                <h3 class="round-title">Lower Final</h3>
+                <span class="round-meta">GRAND FINAL QUALIFIER · BEST OF 5</span>
+              </div>
+              <div class="match-list spaced-final" id="col-lf"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Final Placements -->
+    <section class="placements-section" id="placements">
+      <div class="section-heading">
+        <p class="eyebrow">TOURNAMENT SUMMARY</p>
+        <h2>PROJECTED FINAL PLACEMENTS</h2>
+        <p>อันดับ สถิติการแข่งขัน และเงินรางวัลคาดการณ์ของทั้ง 8 ทีมในรอบเพลย์ออฟ</p>
+      </div>
+
+      <div class="placements-table-wrap">
+        <table class="placements-table">
+          <thead>
+            <tr>
+              <th>PLACE</th>
+              <th>TEAM</th>
+              <th>REGION</th>
+              <th>SERIES RECORD</th>
+              <th>PRIZE POOL</th>
+              <th>STATUS</th>
+            </tr>
+          </thead>
+          <tbody id="placements-tbody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-copy">
+      <span class="footer-tag">UNOFFICIAL PRE-TOURNAMENT EDITORIAL GUIDE</span>
+      <p>VALORANT and all related properties are trademarks of Riot Games, Inc. This independent guide is not affiliated with or endorsed by Riot Games.</p>
+    </div>
+    <div class="footer-meta">
+      <span>CUTOFF: 05.10.2026</span>
+      <span>COVERAGE: 8 PLAYOFF TEAMS / DOUBLE ELIMINATION</span>
+    </div>
+    <a class="footer-back" href="#main">กลับขึ้นด้านบน ↑</a>
+  </footer>
+
+  <!-- Modal for Tactical Matchup Dossier -->
+  <div class="playoff-modal-backdrop" id="match-modal-backdrop" role="dialog" aria-modal="true" aria-labelledby="modal-match-title">
+    <div class="playoff-modal">
+      <button class="modal-close-btn" id="modal-close" type="button" aria-label="Close modal">×</button>
+      <div id="match-modal-content"></div>
+    </div>
+  </div>
+
+  <script src="playoffs-data.js?v=2.0.2"></script>
+  <script src="playoffs.js?v=2.0.2"></script>
+</body>
+</html>
